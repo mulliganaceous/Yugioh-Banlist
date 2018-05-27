@@ -1,0 +1,6 @@
+card "Destiny HERO - Malicious" {
+	release ocg 
+	release tcg 
+	type 
+}
+

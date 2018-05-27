@@ -1,0 +1,6 @@
+card "SPYRAL GEAR - Drone" {
+	release ocg 
+	release tcg 
+	type 
+}
+

@@ -1,0 +1,6 @@
+card "Demise, King of Armageddon" {
+	release ocg 
+	release tcg 
+	type 
+}
+

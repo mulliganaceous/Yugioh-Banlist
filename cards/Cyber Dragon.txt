@@ -1,0 +1,6 @@
+card "Cyber Dragon" {
+	release ocg 
+	release tcg 
+	type 
+}
+

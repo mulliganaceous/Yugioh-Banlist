@@ -1,0 +1,8 @@
+format T
+year 2017-11
+
+#LIST
+limit "Blackwing - Gofu the Vague Shadow"
+limit "SPYRAL GEAR - Drone"
+limit "SPYRAL Quik-Fix"
+limit "Set Rotation"

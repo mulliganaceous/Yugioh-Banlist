@@ -1,0 +1,6 @@
+card "Reasoning" {
+	release ocg 
+	release tcg 
+	type 
+}
+

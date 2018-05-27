@@ -1,0 +1,16 @@
+format T
+year 2014-04
+
+#LIST
+forbid "Morphing Jar"
+forbid "Morphing Jar #2"
+
+limit "Coach Soldier Wolfbark"
+limit "Mermail Abyssgunde"
+limit "Rekindling"
+limit "Infernity Barrier"
+
+semilimit "Necroface"
+semilimit "Hieratic Seal of Convocation"
+semilimit "Magical Stone Excavation"
+semilimit "Primal Seed"

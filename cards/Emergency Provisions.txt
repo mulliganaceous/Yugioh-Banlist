@@ -1,0 +1,6 @@
+card "Emergency Provisions" {
+	release ocg 
+	release tcg 
+	type 
+}
+

@@ -1,0 +1,6 @@
+card "Kuribandit" {
+	release ocg 
+	release tcg 
+	type 
+}
+

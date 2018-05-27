@@ -1,0 +1,6 @@
+card "Destiny HERO - Disk Commander" {
+	release ocg 
+	release tcg 
+	type 
+}
+

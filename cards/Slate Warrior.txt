@@ -1,0 +1,6 @@
+card "Slate Warrior" {
+	release ocg 
+	release tcg 
+	type 
+}
+

@@ -1,0 +1,6 @@
+card "Burial from a Different Dimension" {
+	release ocg 2006 10 26
+	release tcg 2007 02 07
+	type Spell Quickplay
+}
+

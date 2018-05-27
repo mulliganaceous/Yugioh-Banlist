@@ -1,0 +1,6 @@
+card "Nobleman of Crossout" {
+	release ocg 
+	release tcg 
+	type 
+}
+

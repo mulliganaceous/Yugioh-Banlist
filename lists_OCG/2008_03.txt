@@ -1,0 +1,30 @@
+format O
+year 2008-03
+
+#LIST
+forbid "Breaker the Magical Warrior"
+forbid "Magician of Faith"
+forbid "Call of the Haunted"
+
+limit "Raiza the Storm Monarch"
+limit "Advanced Ritual Art"
+limit "Monster Reborn"
+limit "Nobleman of Crossout"
+limit "Ojama Trio"
+
+semilimit "Cyber Dragon"
+semilimit "Light and Darkness Dragon"
+semilimit "Necroface"
+semilimit "Book of Moon"
+semilimit "Foolish Burial"
+semilimit "Mage Power"
+semilimit "Magical Stone Excavation"
+
+unlimit "Apprentice Magician"
+unlimit "Jinzo"
+unlimit "Creature Swap"
+unlimit "Pot of Avarice"
+unlimit "Reckless Greed"
+unlimit "Red Gadget"
+unlimit "Yellow Gadget"
+unlimit "Green Gadget"

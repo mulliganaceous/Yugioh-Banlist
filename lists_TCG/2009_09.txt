@@ -1,0 +1,33 @@
+format T
+year 2009-09
+analogue ocg 2009-09
+
+#LIST
+forbid "Dark Strike Fighter"
+forbid "Card of Safe Return"
+forbid "Monster Reborn"
+forbid "Crush Card Virus"
+
+limit "Black Rose Dragon"
+limit "Blackwing - Gale the Whirlwind"
+limit "Demise, King of Armageddon"
+limit "Mind Master"
+limit "Rescue Cat"
+limit "Summoner Monk"
+limit "Cold Wave"
+limit "Mind Control"
+limit "One for One"
+limit "Call of the Haunted"
+limit "Solemn Judgment"
+
+semilimit "Chaos Sorcerer"
+semilimit "Lonefire Blossom"
+semilimit "Mezuki"
+semilimit "Bottomless Trap Hole"
+
+unlimit "Breaker the Magical Warrior"
+unlimit "D.D. Warrior Lady"
+unlimit "Green Baboon, Defender of the Forest"
+unlimit "Raiza the Storm Monarch"
+unlimit "Destiny Draw"
+unlimit "Fissure"

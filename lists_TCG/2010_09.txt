@@ -1,0 +1,30 @@
+format T
+year 2010-09
+analogue ocg 2010-09
+
+#LIST
+forbid "Rescue Cat"
+forbid "Substitoad"
+forbid "Brain Control"
+forbid "Heavy Storm"
+forbid "Temple of the Kings"
+
+limit "Black Whirlwind"
+limit "Dark Hole"
+limit "Infernity Launcher"
+limit "Monster Reborn"
+limit "Royal Oppression"
+
+semilimit "Chaos Sorcerer"
+semilimit "Dewloren, Tiger King of the Ice Barrier"
+semilimit "Snipe Hunter"
+semilimit "Mystical Space Typhoon"
+semilimit "Magic Cylinder"
+semilimit "Ojama Trio"
+
+unlimit "Black Rose Dragon"
+unlimit "Cyber Dragon"
+unlimit "Goblin Zombie"
+unlimit "Treeborn Frog"
+unlimit "United We Stand"
+unlimit "Royal Decree"

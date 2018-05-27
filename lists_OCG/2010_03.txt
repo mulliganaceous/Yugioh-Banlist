@@ -1,0 +1,31 @@
+format O
+year 2010-03
+
+#LIST
+limit "Chaos Sorcerer"
+limit "Lumina, Lightsworn Summoner"
+limit "Mezuki"
+limit "Necroface"
+limit "Necro Gardna"
+limit "Tragoedia"
+limit "Allure of Darkness"
+limit "Burial from a Different Dimension"
+limit "Charge of the Light Brigade"
+limit "Destiny Draw"
+limit "Foolish Burial"
+limit "Magical Explosion"
+limit "Mind Crush"
+
+semilimit "Cyber Dragon"
+semilimit "Dandylion"
+semilimit "Demise, King of Armageddon"
+semilimit "Honest"
+semilimit "Treeborn Frog"
+semilimit "Black Whirlwind"
+semilimit "United We Stand"
+semilimit "Royal Decree"
+semilimit "Royal Oppression"
+semilimit "Skill Drain"
+
+unlimit "Mask of Darkness"
+unlimit "Smashing Ground"

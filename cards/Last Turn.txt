@@ -1,0 +1,6 @@
+card "Last Turn" {
+	release ocg 
+	release tcg 
+	type 
+}
+

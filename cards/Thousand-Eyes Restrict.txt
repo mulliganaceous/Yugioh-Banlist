@@ -1,0 +1,6 @@
+card "Thousand-Eyes Restrict" {
+	release ocg 
+	release tcg 
+	type 
+}
+

@@ -1,0 +1,6 @@
+card "Gorz the Emissary of Darkness" {
+	release ocg 
+	release tcg 
+	type 
+}
+

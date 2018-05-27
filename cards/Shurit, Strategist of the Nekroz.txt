@@ -1,0 +1,6 @@
+card "Shurit, Strategist of the Nekroz" {
+	release ocg 
+	release tcg 
+	type 
+}
+

@@ -1,0 +1,6 @@
+card "Final Countdown" {
+	release ocg 
+	release tcg 
+	type 
+}
+

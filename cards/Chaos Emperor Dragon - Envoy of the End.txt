@@ -1,0 +1,6 @@
+card "Chaos Emperor Dragon - Envoy of the End" {
+	release ocg 
+	release tcg 
+	type 
+}
+

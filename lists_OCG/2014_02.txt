@@ -1,0 +1,27 @@
+format O
+year 2014-02
+
+#LIST
+forbid "Return from the Different Dimension"
+
+limit "Atlantean Dragoons"
+limit "Cyber-Stein"
+limit "Elemental HERO Bubbleman"
+limit "Evilswarm Ophion"
+limit "Gold Sarcophagus"
+limit "Sacred Sword of Seven Stars"
+
+semilimit "Blaster, Dragon Ruler of Infernos"
+semilimit "Honest"
+semilimit "Lonefire Blossom"
+semilimit "Plaguespreader Zombie"
+semilimit "Redox, Dragon Ruler of Boulders"
+semilimit "Tempest, Dragon Ruler of Storms"
+semilimit "Tidal, Dragon Ruler of Waterfalls"
+
+unlimit "Debris Dragon"
+unlimit "Gladiator Beast Bestiari"
+unlimit "Gorz the Emissary of Darkness"
+unlimit "Neo-Spacian Grand Mole"
+unlimit "The Agent of Mystery - Earth"
+unlimit "Thunder King Rai-Oh"

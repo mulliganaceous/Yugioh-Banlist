@@ -1,0 +1,6 @@
+card "True King's Return" {
+	release ocg 
+	release tcg 
+	type 
+}
+

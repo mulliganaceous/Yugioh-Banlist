@@ -1,0 +1,6 @@
+card "Good Goblin Housekeeping" {
+	release ocg 
+	release tcg 
+	type 
+}
+

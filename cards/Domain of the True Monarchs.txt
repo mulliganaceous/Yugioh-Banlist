@@ -1,0 +1,6 @@
+card "Domain of the True Monarchs" {
+	release ocg 
+	release tcg 
+	type 
+}
+

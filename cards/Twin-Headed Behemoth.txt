@@ -1,0 +1,6 @@
+card "Twin-Headed Behemoth" {
+	release ocg 
+	release tcg 
+	type 
+}
+

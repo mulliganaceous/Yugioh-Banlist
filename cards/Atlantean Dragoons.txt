@@ -1,0 +1,6 @@
+card "Atlantean Dragoons" {
+	release ocg 2012 06 16
+	release tcg 2012 10 11
+	type Monster Effect
+}
+

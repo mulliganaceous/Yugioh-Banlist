@@ -1,0 +1,6 @@
+card "Card of Demise" {
+	release ocg 
+	release tcg 
+	type 
+}
+

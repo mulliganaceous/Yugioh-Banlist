@@ -1,0 +1,6 @@
+card "A Hero Lives" {
+	release ocg 2011 03 12
+	release tcg 2011 08 06
+	type Spell Normal
+}
+

@@ -1,0 +1,6 @@
+card "Mathematician" {
+	release ocg 
+	release tcg 
+	type 
+}
+

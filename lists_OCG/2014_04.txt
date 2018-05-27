@@ -1,0 +1,19 @@
+format O
+year 2014-04
+
+#LIST
+forbid "Wind-Up Hunter"
+forbid "Ultimate Offering"
+
+limit "Blaster, Dragon Ruler of Infernos"
+limit "Redox, Dragon Ruler of Boulders"
+limit "Tempest, Dragon Ruler of Storms"
+limit "Tidal, Dragon Ruler of Waterfalls"
+limit "Wind-Up Carrier Zenmaity"
+
+semilimit "Dark Armed Dragon"
+semilimit "Sacred Sword of Seven Stars"
+
+nerf unlimit "Dark Strike Fighter"
+unlimit "Tour Guide From the Underworld"
+unlimit "Torrential Tribute"

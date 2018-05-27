@@ -1,0 +1,15 @@
+format T
+year 2003-08
+
+#LIST
+limit "Graceful Charity"
+limit "Mirage of Nightmare"
+limit "Reckless Greed"
+limit "Ring of Destruction"
+
+unlimit "Limiter Removal"
+unlimit "Backup Soldier"
+
+#LIST 2003_11
+limit "Breaker the Magical Warrior"
+limit "Tribe-Infecting Virus"

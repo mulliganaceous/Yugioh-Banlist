@@ -1,0 +1,22 @@
+format O
+year 2001-01
+
+#LIST
+limit "Limiter Removal"
+limit "Monster Reborn"
+limit "Painful Choice"
+limit "Backup Soldier"
+limit "Call of the Haunted"
+limit "Ceasefire"
+limit "Imperial Order"
+limit "Magic Cylinder"
+
+semilimit "Sangan"
+semilimit "Witch of the Black Forest"
+semilimit "Last Will"
+semilimit "Nobleman of Crossout"
+semilimit "Riryoku"
+semilimit "Swords of Revealing Light"
+semilimit "Ring of Destruction"
+
+unlimit "Gravekeeper's Servant"

@@ -1,0 +1,6 @@
+card "Heavy Storm" {
+	release ocg 
+	release tcg 
+	type 
+}
+

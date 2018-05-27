@@ -1,0 +1,29 @@
+format O
+year 2008-09
+
+#LIST
+forbid "Dark Magician of Chaos"
+forbid "Destiny HERO - Disk Commander"
+forbid "Dimension Fusion"
+forbid "Premature Burial"
+
+limit "Breaker the Magical Warrior"
+limit "Cyber Dragon"
+limit "Monster Gate"
+limit "Reasoning"
+limit "Return from the Different Dimension"
+
+semilimit "Dark Armed Dragon"
+semilimit "Judgment Dragon"
+semilimit "Phantom of Chaos"
+semilimit "Rescue Cat"
+semilimit "Summoner Monk"
+semilimit "Card of Safe Return"
+semilimit "Chain Strike"
+semilimit "Nobleman of Crossout"
+
+unlimit "Destiny HERO - Malicious"
+unlimit "Light and Darkness Dragon"
+unlimit "Mage Power"
+unlimit "Reinforcement of the Army"
+unlimit "Royal Decree"

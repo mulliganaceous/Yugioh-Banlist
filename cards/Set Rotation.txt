@@ -1,0 +1,6 @@
+card "Set Rotation" {
+	release ocg 
+	release tcg 
+	type 
+}
+

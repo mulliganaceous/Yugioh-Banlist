@@ -1,0 +1,6 @@
+card "Skill Drain" {
+	release ocg 
+	release tcg 
+	type 
+}
+

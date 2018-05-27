@@ -1,0 +1,6 @@
+card "Emergency Teleport" {
+	release ocg 
+	release tcg 
+	type 
+}
+

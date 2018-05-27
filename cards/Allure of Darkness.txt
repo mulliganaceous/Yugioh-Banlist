@@ -1,0 +1,6 @@
+card "Allure of Darkness" {
+	release ocg 2008 09 13
+	release tcg 2008 01 26
+	type Spell Normal
+}
+

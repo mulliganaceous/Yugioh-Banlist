@@ -1,0 +1,10 @@
+format T
+year 2004-02
+
+#LIST
+limit "Magical Scientist"
+limit "Reflect Bounder"
+limit "Vampire Lord"
+limit "Butterfly Dagger - Elma"
+
+semilimit "Morphing Jar"

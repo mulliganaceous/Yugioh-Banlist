@@ -1,0 +1,6 @@
+card "Grandsoil the Elemental Lord" {
+	release ocg 
+	release tcg 
+	type 
+}
+

@@ -1,0 +1,6 @@
+card "Wind-Up Hunter" {
+	release ocg 
+	release tcg 
+	type 
+}
+

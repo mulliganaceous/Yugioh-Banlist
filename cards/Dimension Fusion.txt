@@ -1,0 +1,6 @@
+card "Dimension Fusion" {
+	release ocg 
+	release tcg 
+	type 
+}
+

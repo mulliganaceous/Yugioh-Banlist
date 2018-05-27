@@ -1,0 +1,9 @@
+format T
+year 2004-10
+
+#LIST
+limit "Dark Magician of Chaos"
+limit "Protector of the Sanctuary"
+limit "Mystical Space Typhoon"
+limit "Torrential Tribute"
+limit "Morphing Jar"

@@ -1,0 +1,6 @@
+card "Mind Crush" {
+	release ocg 
+	release tcg 
+	type 
+}
+

@@ -1,0 +1,6 @@
+card "Reactan, Dragon Ruler of Pebbles" {
+	release ocg 
+	release tcg 
+	type 
+}
+

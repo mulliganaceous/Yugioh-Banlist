@@ -1,0 +1,6 @@
+card "Magic Cylinder" {
+	release ocg 
+	release tcg 
+	type 
+}
+

@@ -1,0 +1,6 @@
+card "Magical Explosion" {
+	release ocg 
+	release tcg 
+	type 
+}
+

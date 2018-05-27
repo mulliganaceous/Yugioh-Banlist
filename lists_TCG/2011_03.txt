@@ -1,0 +1,32 @@
+format T
+year 2011-03
+analogue ocg 2011-03
+
+#LIST
+forbid "Goyo Guardian"
+forbid "Cold Wave"
+forbid "Mass Driver"
+
+limit "Blackwing - Kalut the Moon Shadow"
+limit "Dandylion"
+limit "Honest"
+limit "Book of Moon"
+limit "Gateway of the Six"
+
+semilimit "Archlord Kristya"
+semilimit "Card Trooper"
+semilimit "Debris Dragon"
+semilimit "Spirit Reaper"
+semilimit "Megamorph"
+semilimit "Overload Fusion"
+semilimit "Royal Tribute"
+semilimit "Icarus Attack"
+semilimit "Solemn Warning"
+
+unlimit "Chaos Sorcerer"
+unlimit "Demise, King of Armageddon"
+unlimit "Dewloren, Tiger King of the Ice Barrier"
+unlimit "Snipe Hunter"
+unlimit "Gold Sarcophagus"
+unlimit "Skill Drain"
+unlimit "Ultimate Offering"

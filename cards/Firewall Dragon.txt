@@ -1,0 +1,6 @@
+card "Firewall Dragon" {
+	release ocg 
+	release tcg 
+	type 
+}
+

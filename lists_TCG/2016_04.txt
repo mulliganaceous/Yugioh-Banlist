@@ -1,0 +1,29 @@
+format T
+year 2016-04
+
+#LIST
+forbid "Performage Damage Juggler"
+forbid "Performage Plushfire"
+forbid "Tellarknight Ptolemaeus"
+forbid "Chicken Game"
+forbid "Wavering Eyes"
+
+limit "Elder Entity Norden"
+limit "Ignister Prominence, the Blasting Dracoslayer"
+limit "Luster Pendulum, the Dracoslayer"
+limit "Performapal Monkeyboard"
+limit "Performapal Skullcrobat Joker"
+limit "Thousand-Eyes Restrict"
+limit "Wisdom-Eye Magician"
+limit "Draco Face-Off"
+limit "Reasoning"
+limit "Upstart Goblin"
+
+semilimit "Debris Dragon"
+semilimit "Allure of Darkness"
+semilimit "Emergency Teleport"
+
+unlimit "Dark Magician of Chaos"
+unlimit "Tragoedia"
+unlimit "Advanced Ritual Art"
+unlimit "Crush Card Virus"

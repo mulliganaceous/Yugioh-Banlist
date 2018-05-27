@@ -1,0 +1,6 @@
+card "Dragon Shrine" {
+	release ocg 
+	release tcg 
+	type 
+}
+

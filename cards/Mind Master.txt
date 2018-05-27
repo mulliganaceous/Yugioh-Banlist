@@ -1,0 +1,6 @@
+card "Mind Master" {
+	release ocg 
+	release tcg 
+	type 
+}
+

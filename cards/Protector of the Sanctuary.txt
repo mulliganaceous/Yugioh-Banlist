@@ -1,0 +1,6 @@
+card "Protector of the Sanctuary" {
+	release ocg 
+	release tcg 
+	type 
+}
+

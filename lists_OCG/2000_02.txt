@@ -1,0 +1,20 @@
+format O
+year 2000-02
+
+#LIST
+limit "Exodia the Forbidden One"
+limit "Left Arm of the Forbidden One"
+limit "Left Leg of the Forbidden One"
+limit "Right Arm of the Forbidden One"
+limit "Right Leg of the Forbidden One"
+
+limit "Change of Heart"
+limit "Last Will"
+limit "Pot of Greed"
+limit "Mirror Force"
+
+semilimit "Graceful Charity"
+semilimit "Harpie's Feather Duster"
+semilimit "Monster Reborn"
+
+unlimit "Trap Hole"

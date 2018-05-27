@@ -1,0 +1,6 @@
+card "Necroface" {
+	release ocg 
+	release tcg 
+	type 
+}
+

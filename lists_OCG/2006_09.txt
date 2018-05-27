@@ -1,0 +1,29 @@
+format O
+year 2006-09
+
+#LIST
+forbid "Chaos Sorcerer"
+forbid "Thousand-Eyes Restrict"
+forbid "Tsukuyomi"
+forbid "Snatch Steal"
+forbid "Temple of the Kings"
+
+limit "Green Baboon, Defender of the Forest"
+limit "Magician of Faith"
+limit "Spirit Reaper"
+limit "Victory Dragon"
+limit "Future Fusion"
+limit "Nobleman of Crossout"
+limit "Gravity Bind"
+limit "Ring of Destruction"
+limit "Ultimate Offering"
+
+semilimit "Exiled Force"
+semilimit "Giant Trunade"
+semilimit "Reckless Greed"
+semilimit "Wall of Revealing Light"
+
+unlimit "Reflect Bounder"
+unlimit "Emergency Provisions"
+unlimit "Lightning Vortex"
+unlimit "Drop Off"

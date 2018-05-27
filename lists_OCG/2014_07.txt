@@ -1,0 +1,27 @@
+format O
+year 2014-07
+
+#LIST
+limit "Armageddon Knight"
+limit "Artifact Moralltach"
+limit "Dragon Ravine"
+limit "Dragon Shrine"
+limit "Needlebug Nest"
+
+semilimit "Chronomaly Nebra Disk"
+semilimit "Elemental HERO Bubbleman"
+semilimit "Evilswarm Ophion"
+semilimit "Legendary Six Samurai - Shi En"
+semilimit "Mezuki"
+semilimit "T.G. Striker"
+semilimit "Wind-Up Shark"
+semilimit "Abyss-sphere"
+
+unlimit "Chaos Sorcerer"
+unlimit "Cyber-Stein"
+unlimit "Plaguespreader Zombie"
+unlimit "Rescue Rabbit"
+unlimit "Black Whirlwind"
+unlimit "Fire Formation - Tenki"
+unlimit "Royal Tribute"
+unlimit "Sacred Sword of Seven Stars"

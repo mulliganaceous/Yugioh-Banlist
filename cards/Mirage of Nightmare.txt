@@ -1,0 +1,6 @@
+card "Mirage of Nightmare" {
+	release ocg 
+	release tcg 
+	type 
+}
+

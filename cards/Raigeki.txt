@@ -1,0 +1,6 @@
+card "Raigeki" {
+	release ocg 
+	release tcg 
+	type 
+}
+

@@ -1,0 +1,6 @@
+card "Rescue Rabbit" {
+	release ocg 
+	release tcg 
+	type 
+}
+

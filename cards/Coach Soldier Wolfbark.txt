@@ -1,0 +1,6 @@
+card "Coach Soldier Wolfbark" {
+	release ocg 
+	release tcg 
+	type 
+}
+

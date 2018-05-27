@@ -1,0 +1,22 @@
+format O
+year 2012-03
+
+#LIST
+forbid "Glow-Up Bulb"
+forbid "Spore"
+forbid "Trishula, Dragon of the Ice Barrier"
+forbid "Trap Dustshoot"
+
+limit "T.G. Striker"
+limit "The Agent of Mystery - Earth"
+
+semilimit "Lumina, Lightsworn Summoner"
+semilimit "Marshmallon"
+semilimit "Reborn Tengu"
+semilimit "Emergency Teleport"
+semilimit "Level Limit - Area B"
+semilimit "Shien's Smoke Signal"
+semilimit "Torrential Tribute"
+semilimit "Ultimate Offering"
+
+unlimit "Call of the Haunted"

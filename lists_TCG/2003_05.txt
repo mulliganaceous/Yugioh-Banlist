@@ -1,0 +1,8 @@
+format T
+year 2003-05
+
+#LIST
+limit "Sinister Serpent"
+limit "Harpie's Feather Duster"
+limit "Heavy Storm"
+semilimit "Graceful Charity"

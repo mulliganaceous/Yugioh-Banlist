@@ -1,0 +1,6 @@
+card "D/D Lamia" {
+	release ocg 
+	release tcg 
+	type 
+}
+

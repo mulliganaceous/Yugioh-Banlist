@@ -1,0 +1,6 @@
+card "D.D. Assailant" {
+	release ocg 
+	release tcg 
+	type 
+}
+

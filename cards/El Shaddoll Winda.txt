@@ -1,0 +1,6 @@
+card "El Shaddoll Winda" {
+	release ocg 
+	release tcg 
+	type 
+}
+

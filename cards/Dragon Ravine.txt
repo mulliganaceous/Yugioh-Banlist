@@ -1,0 +1,6 @@
+card "Dragon Ravine" {
+	release ocg 
+	release tcg 
+	type 
+}
+

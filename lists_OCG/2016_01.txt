@@ -1,0 +1,7 @@
+format O
+year 2016-01
+
+#LIST
+forbid "Number 16: Shock Master"
+forbid "Performage Damage Juggler"
+forbid "Performage Plushfire"

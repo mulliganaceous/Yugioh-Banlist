@@ -1,0 +1,6 @@
+card "Fiber Jar" {
+	release ocg 
+	release tcg 
+	type 
+}
+

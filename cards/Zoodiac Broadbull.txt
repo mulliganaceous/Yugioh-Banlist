@@ -1,0 +1,6 @@
+card "Zoodiac Broadbull" {
+	release ocg 
+	release tcg 
+	type 
+}
+

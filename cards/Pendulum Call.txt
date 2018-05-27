@@ -1,0 +1,6 @@
+card "Pendulum Call" {
+	release ocg 
+	release tcg 
+	type 
+}
+

@@ -1,0 +1,6 @@
+card "Fossil Dig" {
+	release ocg 
+	release tcg 
+	type 
+}
+

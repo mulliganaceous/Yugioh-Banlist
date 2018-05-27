@@ -1,0 +1,28 @@
+format T
+year 2006-04
+
+#LIST
+forbid "Cyber Jar"
+forbid "Dark Hole"
+forbid "Exchange of the Spirit"
+forbid "Last Turn"
+forbid "Time Seal"
+
+limit "D.D. Assailant"
+limit "Mask of Darkness"
+limit "Treeborn Frog"
+limit "Graceful Charity"
+limit "Last Will"
+limit "Level Limit - Area B"
+limit "Pot of Avarice"
+limit "Drop Off"
+limit "Mirror Force"
+
+semilimit "Apprentice Magician"
+semilimit "Magician of Faith"
+semilimit "Reflect Bounder"
+semilimit "Nobleman of Crossout"
+semilimit "Deck Devastation Virus"
+
+unlimit "Abyss Soldier"
+unlimit "Book of Taiyou"

@@ -1,0 +1,6 @@
+card "Maxx "C"" {
+	release ocg 
+	release tcg 
+	type 
+}
+

@@ -1,0 +1,6 @@
+card "Invoked Mechaba" {
+	release ocg 
+	release tcg 
+	type 
+}
+

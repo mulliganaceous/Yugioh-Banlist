@@ -1,0 +1,6 @@
+card "Abyss-sphere" {
+	release ocg 2012 07 21
+	release tcg 2012 11 09
+	type Trap Continuous
+}
+

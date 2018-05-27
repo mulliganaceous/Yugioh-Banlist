@@ -1,0 +1,6 @@
+card "Right Leg of the Forbidden One" {
+	release ocg 
+	release tcg 
+	type 
+}
+

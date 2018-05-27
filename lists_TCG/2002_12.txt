@@ -1,0 +1,16 @@
+format T
+year 2002-12
+
+#LIST
+limit "Jinzo"
+limit "Morphing Jar"
+limit "Witch of the Black Forest"
+limit "Card Destruction"
+limit "Premature Burial"
+limit "Swords of Revealing Light"
+limit "Call of the Haunted"
+limit "Ceasefire"
+limit "Imperial Order"
+semilimit "Morphing Jar #2"
+semilimit "Nobleman of Crossout"
+semilimit "Backup Soldier"

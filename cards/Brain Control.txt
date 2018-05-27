@@ -1,0 +1,6 @@
+card "Brain Control" {
+	release ocg 2005 02 24
+	release tcg 2005 05 28
+	type Spell Normal
+}
+

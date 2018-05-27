@@ -1,0 +1,6 @@
+card "Thunder King Rai-Oh" {
+	release ocg 
+	release tcg 
+	type 
+}
+

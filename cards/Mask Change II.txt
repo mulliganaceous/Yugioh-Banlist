@@ -1,0 +1,6 @@
+card "Mask Change II" {
+	release ocg 
+	release tcg 
+	type 
+}
+

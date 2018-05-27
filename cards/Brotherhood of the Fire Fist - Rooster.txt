@@ -1,0 +1,6 @@
+card "Brotherhood of the Fire Fist - Rooster" {
+	release ocg 2013 01 11
+	release tcg 2013 08 08
+	type Monster Effect
+}
+

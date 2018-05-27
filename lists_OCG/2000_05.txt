@@ -1,0 +1,7 @@
+format O
+year 2000-05
+
+#LIST
+limit "Harpie's Feather Duster"
+
+semilimit "Snatch Steal"

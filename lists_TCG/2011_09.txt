@@ -1,0 +1,38 @@
+format T
+year 2011-09
+analogue ocg 2011-09
+
+#LIST
+forbid "Fishborg Blaster"
+forbid "Mind Master"
+forbid "Giant Trunade"
+forbid "Royal Oppression"
+
+limit "Black Luster Soldier - Envoy of the Beginning"
+limit "Debris Dragon"
+limit "Formula Synchron"
+limit "Legendary Six Samurai - Shi En"
+limit "Lonefire Blossom"
+limit "T.G. Hyper Librarian"
+limit "Trishula, Dragon of the Ice Barrier"
+limit "Heavy Storm"
+limit "Pot of Avarice"
+limit "Primal Seed"
+limit "Shien's Smoke Signal"
+
+semilimit "Dewloren, Tiger King of the Ice Barrier"
+semilimit "Necro Gardna"
+semilimit "Summoner Monk"
+semilimit "Tragoedia"
+semilimit "Destiny Draw"
+semilimit "Swords of Revealing Light"
+semilimit "Call of the Haunted"
+semilimit "Mind Crush"
+
+unlimit "Judgment Dragon"
+unlimit "Spirit Reaper"
+unlimit "Megamorph"
+unlimit "Mystical Space Typhoon"
+unlimit "Overload Fusion"
+unlimit "Gravity Bind"
+unlimit "Icarus Attack"

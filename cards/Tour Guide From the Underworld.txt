@@ -1,0 +1,6 @@
+card "Tour Guide From the Underworld" {
+	release ocg 
+	release tcg 
+	type 
+}
+

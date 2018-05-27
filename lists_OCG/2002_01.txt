@@ -1,0 +1,13 @@
+format O
+year 2002-01
+
+#LIST
+limit "Fiber Jar"
+limit "Yata-Garasu"
+limit "Mage Power"
+limit "Ring of Destruction"
+
+semilimit "Last Turn"
+
+unlimit "Sinister Serpent"
+unlimit "Megamorph"

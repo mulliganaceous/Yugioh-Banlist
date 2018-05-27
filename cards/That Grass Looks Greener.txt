@@ -1,0 +1,6 @@
+card "That Grass Looks Greener" {
+	release ocg 
+	release tcg 
+	type 
+}
+

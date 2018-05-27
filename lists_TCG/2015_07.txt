@@ -1,0 +1,19 @@
+format T
+year 2015-07
+
+#LIST
+forbid "Djinn Releaser of Rituals"
+forbid "Lavalval Chain"
+
+limit "Shurit, Strategist of the Nekroz"
+limit "Trishula, Dragon of the Ice Barrier"
+
+semilimit "Atlantean Dragoons"
+semilimit "Dragon Ravine"
+
+unlimit "Dark Strike Fighter"
+unlimit "Glow-Up Bulb"
+unlimit "Sinister Serpent"
+unlimit "Sacred Sword of Seven Stars"
+unlimit "Temple of the Kings"
+unlimit "Exchange of the Spirit"

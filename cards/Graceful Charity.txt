@@ -1,0 +1,6 @@
+card "Graceful Charity" {
+	release ocg 
+	release tcg 
+	type 
+}
+

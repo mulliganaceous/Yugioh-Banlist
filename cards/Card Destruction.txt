@@ -1,0 +1,6 @@
+card "Card Destruction" {
+	release ocg 
+	release tcg 
+	type 
+}
+

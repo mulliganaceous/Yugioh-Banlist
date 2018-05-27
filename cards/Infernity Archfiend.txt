@@ -1,0 +1,6 @@
+card "Infernity Archfiend" {
+	release ocg 
+	release tcg 
+	type 
+}
+

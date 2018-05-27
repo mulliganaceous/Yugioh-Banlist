@@ -1,0 +1,6 @@
+card "Nekroz of Brionac" {
+	release ocg 
+	release tcg 
+	type 
+}
+

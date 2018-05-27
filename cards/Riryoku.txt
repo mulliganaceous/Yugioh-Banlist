@@ -1,0 +1,6 @@
+card "Riryoku" {
+	release ocg 
+	release tcg 
+	type 
+}
+

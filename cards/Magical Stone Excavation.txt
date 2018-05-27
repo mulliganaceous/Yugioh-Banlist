@@ -1,0 +1,6 @@
+card "Magical Stone Excavation" {
+	release ocg 
+	release tcg 
+	type 
+}
+

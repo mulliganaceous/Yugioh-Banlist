@@ -1,0 +1,6 @@
+card "Lonefire Blossom" {
+	release ocg 
+	release tcg 
+	type 
+}
+

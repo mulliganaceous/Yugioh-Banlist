@@ -1,0 +1,6 @@
+card "Interrupted Kaiju Slumber" {
+	release ocg 
+	release tcg 
+	type 
+}
+

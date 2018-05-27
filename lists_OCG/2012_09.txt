@@ -1,0 +1,36 @@
+format O
+year 2012-09
+
+#LIST
+forbid "Brionac, Dragon of the Ice Barrier"
+forbid "Future Fusion"
+
+limit "Chaos Sorcerer"
+limit "Evigishki Gustkraken"
+limit "Inzektor Dragonfly"
+limit "Inzektor Hornet"
+limit "Red-Eyes Darkness Metal Dragon"
+limit "Spore"
+limit "Tsukuyomi"
+limit "Wind-Up Carrier Zenmaity"
+limit "Ultimate Offering"
+
+semilimit "Blackwing - Kalut the Moon Shadow"
+semilimit "Debris Dragon"
+semilimit "Rescue Rabbit"
+semilimit "The Agent of Mystery - Earth"
+semilimit "Tour Guide From the Underworld"
+semilimit "A Hero Lives"
+semilimit "E - Emergency Call"
+semilimit "Hieratic Seal of Convocation"
+semilimit "Pot of Duality"
+semilimit "Reasoning"
+semilimit "Mirror Force"
+
+unlimit "Necro Gardna"
+unlimit "Marshmallon"
+unlimit "Destiny Draw"
+unlimit "Emergency Teleport"
+unlimit "Level Limit - Area B"
+unlimit "Swords of Revealing Light"
+unlimit "Magic Cylinder"

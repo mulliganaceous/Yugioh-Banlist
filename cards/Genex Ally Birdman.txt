@@ -1,0 +1,6 @@
+card "Genex Ally Birdman" {
+	release ocg 
+	release tcg 
+	type 
+}
+

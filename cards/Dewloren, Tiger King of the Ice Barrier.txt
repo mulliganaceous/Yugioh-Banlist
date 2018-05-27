@@ -1,0 +1,6 @@
+card "Dewloren, Tiger King of the Ice Barrier" {
+	release ocg 
+	release tcg 
+	type 
+}
+

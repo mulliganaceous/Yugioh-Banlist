@@ -1,0 +1,59 @@
+format T
+year 2013-09
+
+#LIST
+forbid "Burner, Dragon Ruler of Sparks"
+forbid "Lightning, Dragon Ruler of Drafts"
+forbid "Reactan, Dragon Ruler of Pebbles"
+forbid "Stream, Dragon Ruler of Droplets"
+forbid "Elemental HERO Stratos"
+forbid "Number 16: Shock Master"
+
+forbid "Card Destruction"
+forbid "Gateway of the Six"
+forbid "Heavy Storm"
+forbid "Monster Reborn"
+forbid "Pot of Avarice"
+forbid "Spellbook of Judgment"
+forbid "Super Rejuvenation"
+forbid "Solemn Judgment"
+forbid "Ultimate Offering"
+
+limit "Atlantean Dragoons"
+limit "Brotherhood of the Fire Fist - Spirit"
+limit "Constellar Ptolemy M7"
+limit "Deep Sea Diva"
+limit "Dewloren, Tiger King of the Ice Barrier"
+limit "Evigishki Mind Augus"
+limit "Genex Ally Birdman"
+limit "Rescue Rabbit"
+limit "Thunder King Rai-Oh"
+
+limit "Dimensional Fissure"
+limit "Gold Sarcophagus"
+limit "Royal Tribute"
+
+limit "Bottomless Trap Hole"
+limit "Compulsory Evacuation Device"
+limit "Eradicator Epidemic Virus"
+limit "Macro Cosmos"
+limit "Soul Drain"
+limit "Torrential Tribute"
+
+semilimit "Mezuki"
+semilimit "Plaguespreader Zombie"
+semilimit "T.G. Striker"
+semilimit "Fire Formation - Tenki"
+semilimit "Dimensional Prison"
+
+unlimit "Destiny HERO - Malicious"
+unlimit "The Agent of Mystery - Earth"
+unlimit "Tsukuyomi"
+unlimit "A Hero Lives"
+unlimit "Black Whirlwind"
+unlimit "E - Emergency Call"
+unlimit "Hieratic Seal of Convocation"
+unlimit "Pot of Duality"
+unlimit "Scapegoat"
+
+limit "Sixth Sense" 2013-10

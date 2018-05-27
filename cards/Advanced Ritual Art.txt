@@ -1,0 +1,6 @@
+card "Advanced Ritual Art" {
+	release ocg 2006 11 16
+	release tcg 2007 02 28
+	type Spell Ritual
+}
+

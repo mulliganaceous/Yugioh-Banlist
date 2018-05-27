@@ -1,0 +1,6 @@
+card "Archlord Kristya" {
+	release ocg 2009 01 21
+	release tcg 2009 11 17
+	type Monster Effect
+}
+

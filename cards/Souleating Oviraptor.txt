@@ -1,0 +1,6 @@
+card "Souleating Oviraptor" {
+	release ocg 
+	release tcg 
+	type 
+}
+

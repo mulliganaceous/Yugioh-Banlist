@@ -1,0 +1,6 @@
+card "One for One" {
+	release ocg 
+	release tcg 
+	type 
+}
+

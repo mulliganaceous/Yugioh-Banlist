@@ -1,0 +1,6 @@
+card "Torrential Tribute" {
+	release ocg 
+	release tcg 
+	type 
+}
+

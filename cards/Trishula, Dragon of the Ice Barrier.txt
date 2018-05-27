@@ -1,0 +1,6 @@
+card "Trishula, Dragon of the Ice Barrier" {
+	release ocg 
+	release tcg 
+	type 
+}
+

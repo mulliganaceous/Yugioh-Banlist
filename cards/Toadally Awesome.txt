@@ -1,0 +1,6 @@
+card "Toadally Awesome" {
+	release ocg 
+	release tcg 
+	type 
+}
+

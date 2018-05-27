@@ -1,0 +1,6 @@
+card "Infernity Barrier" {
+	release ocg 
+	release tcg 
+	type 
+}
+

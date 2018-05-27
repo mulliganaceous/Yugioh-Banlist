@@ -1,0 +1,6 @@
+card "Gold Sarcophagus" {
+	release ocg 
+	release tcg 
+	type 
+}
+

@@ -1,0 +1,6 @@
+card "Rekindling" {
+	release ocg 
+	release tcg 
+	type 
+}
+

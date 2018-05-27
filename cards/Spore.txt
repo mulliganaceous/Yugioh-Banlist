@@ -1,0 +1,6 @@
+card "Spore" {
+	release ocg 
+	release tcg 
+	type 
+}
+

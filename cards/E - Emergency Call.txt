@@ -1,0 +1,6 @@
+card "E - Emergency Call" {
+	release ocg 
+	release tcg 
+	type 
+}
+

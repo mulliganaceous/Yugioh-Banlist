@@ -1,0 +1,30 @@
+format T
+year 2014-01
+
+#LIST
+forbid "Dragon Ravine"
+forbid "Return from the Different Dimension"
+forbid "Self-Destruct Button"
+forbid "Sixth Sense"
+
+limit "Blaster, Dragon Ruler of Infernos"
+limit "Redox, Dragon Ruler of Boulders"
+limit "Tempest, Dragon Ruler of Storms"
+limit "Tidal, Dragon Ruler of Waterfalls"
+limit "Debris Dragon"
+limit "Magician of Faith"
+limit "Divine Wind of Mist Valley"
+limit "Final Countdown"
+limit "Sacred Sword of Seven Stars"
+limit "Spellbook of Fate"
+
+semilimit "Chaos Sorcerer"
+semilimit "Lonefire Blossom"
+
+unlimit "Archlord Kristya"
+unlimit "Constellar Ptolemy M7"
+unlimit "Mezuki"
+unlimit "Plaguespreader Zombie"
+unlimit "T.G. Striker"
+unlimit "Tour Guide From the Underworld"
+unlimit "Fire Formation - Tenki"

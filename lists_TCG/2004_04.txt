@@ -1,0 +1,7 @@
+format T
+year 2004-04
+
+#LIST
+limit "Black Luster Soldier - Envoy of the Beginning"
+limit "Chaos Emperor Dragon - Envoy of the End"
+semilimit "Manticore of Darkness"

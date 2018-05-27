@@ -1,0 +1,32 @@
+format O
+year 2006-03
+
+#LIST
+forbid "Cyber Jar"
+forbid "Tribe-Infecting Virus"
+forbid "Victory Dragon"
+forbid "Dark Hole"
+forbid "Pot of Greed"
+forbid "Exchange of the Spirit"
+forbid "Last Turn"
+forbid "Time Seal"
+
+limit "D.D. Assailant"
+limit "Dandylion"
+limit "Mask of Darkness"
+limit "Treeborn Frog"
+limit "Graceful Charity"
+limit "Last Will"
+limit "Level Limit - Area B"
+limit "Magical Stone Excavation"
+limit "Pot of Avarice"
+limit "Temple of the Kings"
+limit "Drop Off"
+limit "Mirror Force"
+
+semilimit "Apprentice Magician"
+semilimit "Magician of Faith"
+semilimit "Reflect Bounder"
+semilimit "Deck Devastation Virus"
+
+unlimit "Abyss Soldier"

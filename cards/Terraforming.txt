@@ -1,0 +1,6 @@
+card "Terraforming" {
+	release ocg 
+	release tcg 
+	type 
+}
+

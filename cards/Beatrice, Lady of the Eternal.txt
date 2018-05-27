@@ -1,0 +1,6 @@
+card "Beatrice, Lady of the Eternal" {
+	release ocg 2015 09 19
+	release tcg 2016 03 18
+	type Monster Xyz
+}
+

@@ -1,0 +1,6 @@
+card "Master Peace, the True Dracoslaying King" {
+	release ocg 
+	release tcg 
+	type 
+}
+

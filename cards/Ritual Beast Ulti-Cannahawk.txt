@@ -1,0 +1,6 @@
+card "Ritual Beast Ulti-Cannahawk" {
+	release ocg 
+	release tcg 
+	type 
+}
+

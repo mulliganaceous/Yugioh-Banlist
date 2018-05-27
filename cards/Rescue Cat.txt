@@ -1,0 +1,6 @@
+card "Rescue Cat" {
+	release ocg 
+	release tcg 
+	type 
+}
+

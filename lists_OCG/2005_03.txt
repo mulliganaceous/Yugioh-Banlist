@@ -1,0 +1,37 @@
+format O
+year 2005-03
+
+#LIST
+forbid "Fiber Jar"
+forbid "Magical Scientist"
+forbid "Makyura the Destructor"
+forbid "Butterfly Dagger - Elma"
+forbid "Change of Heart"
+forbid "Confiscation"
+forbid "Mirage of Nightmare"
+forbid "Painful Choice"
+forbid "The Forceful Sentry"
+forbid "Sixth Sense"
+
+limit "D.D. Warrior Lady"
+limit "Marshmallon"
+limit "Sacred Phoenix of Nephthys"
+limit "Sangan"
+limit "Delinquent Duo"
+limit "Graceful Charity"
+limit "Lightning Vortex"
+limit "United We Stand"
+limit "Deck Devastation Virus"
+limit "Mirror Force"
+
+semilimit "Abyss Soldier"
+semilimit "Dark Scorpion - Chick the Yellow"
+semilimit "Night Assailant"
+semilimit "Vampire Lord"
+semilimit "Emergency Provisions"
+semilimit "Level Limit - Area B"
+semilimit "Upstart Goblin"
+semilimit "Good Goblin Housekeeping"
+semilimit "Gravity Bind"
+
+unlimit "Morphing Jar #2"

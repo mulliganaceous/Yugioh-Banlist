@@ -1,0 +1,6 @@
+card "Royal Tribute" {
+	release ocg 
+	release tcg 
+	type 
+}
+

@@ -1,0 +1,6 @@
+card "Ash Blossom & Joyous Spring" {
+	release ocg 2017 01 14
+	release tcg 2017 05 04
+	type Monster Effect
+}
+

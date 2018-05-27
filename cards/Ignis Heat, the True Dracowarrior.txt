@@ -1,0 +1,6 @@
+card "Ignis Heat, the True Dracowarrior" {
+	release ocg 
+	release tcg 
+	type 
+}
+

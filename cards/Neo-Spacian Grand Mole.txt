@@ -1,0 +1,6 @@
+card "Neo-Spacian Grand Mole" {
+	release ocg 
+	release tcg 
+	type 
+}
+

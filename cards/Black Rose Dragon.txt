@@ -1,0 +1,6 @@
+card "Black Rose Dragon" {
+	release ocg 2008 07 19
+	release tcg 2008 11 01
+	type Monster Synchro
+}
+

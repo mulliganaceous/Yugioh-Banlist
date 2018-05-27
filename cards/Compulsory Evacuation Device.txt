@@ -1,0 +1,6 @@
+card "Compulsory Evacuation Device" {
+	release ocg 
+	release tcg 
+	type 
+}
+

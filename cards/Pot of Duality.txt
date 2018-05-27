@@ -1,0 +1,6 @@
+card "Pot of Duality" {
+	release ocg 
+	release tcg 
+	type 
+}
+

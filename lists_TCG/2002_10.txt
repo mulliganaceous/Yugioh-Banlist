@@ -1,0 +1,11 @@
+format T
+year 2002-10
+
+#LIST
+limit "Cyber Jar"
+limit "Confiscation"
+limit "Delinquent Duo"
+limit "Painful Choice"
+limit "Snatch Steal"
+limit "The Forceful Sentry"
+limit "Upstart Goblin"

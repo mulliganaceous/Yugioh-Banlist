@@ -1,0 +1,6 @@
+card "Sacred Phoenix of Nephthys" {
+	release ocg 
+	release tcg 
+	type 
+}
+

@@ -1,0 +1,6 @@
+card "Daigusto Emeral" {
+	release ocg 
+	release tcg 
+	type 
+}
+

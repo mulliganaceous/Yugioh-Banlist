@@ -1,0 +1,6 @@
+card "Blackwing - Kalut the Moon Shadow" {
+	release ocg 2009 02 14
+	release tcg 2009 05 02
+	type Monster Effect
+}
+

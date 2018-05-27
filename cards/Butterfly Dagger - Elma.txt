@@ -1,0 +1,6 @@
+card "Butterfly Dagger - Elma" {
+	release ocg 2002 11 21
+	release tcg 2003 12 01
+	type Spell Equip
+}
+

@@ -1,0 +1,6 @@
+card "True Draco Heritage" {
+	release ocg 
+	release tcg 
+	type 
+}
+

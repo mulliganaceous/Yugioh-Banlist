@@ -1,0 +1,29 @@
+format T
+year 2008-09
+analogue ocg 2008-09
+
+#LIST
+forbid "Dark Magician of Chaos"
+forbid "Destiny HERO - Disk Commander"
+forbid "Premature Burial"
+
+limit "Breaker the Magical Warrior"
+limit "Cyber Dragon"
+limit "Gorz the Emissary of Darkness"
+limit "Monster Gate"
+limit "Reasoning"
+
+semilimit "Dark Armed Dragon"
+semilimit "Judgment Dragon"
+semilimit "Phantom of Chaos"
+semilimit "Rescue Cat"
+semilimit "Card of Safe Return"
+semilimit "Chain Strike"
+semilimit "Nobleman of Crossout"
+
+unlimit "Destiny HERO - Malicious"
+unlimit "Light and Darkness Dragon"
+unlimit "Allure of Darkness"
+unlimit "Mage Power"
+unlimit "Reinforcement of the Army"
+unlimit "Royal Decree"

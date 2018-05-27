@@ -1,0 +1,6 @@
+card "Speedroid Terrortop" {
+	release ocg 
+	release tcg 
+	type 
+}
+

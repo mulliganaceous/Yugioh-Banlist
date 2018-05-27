@@ -1,0 +1,17 @@
+format O
+year 2014-10
+
+#LIST
+limit "Dark Armed Dragon"
+limit "El Shaddoll Construct"
+limit "El Shaddoll Winda"
+limit "Star Seraph Sovereignty"
+limit "Summoner Monk"
+limit "Soul Charge"
+limit "Sinister Shadow Games"
+
+semilimit "Blackwing - Gale the Whirlwind"
+
+unlimit "Wind-Up Shark"
+unlimit "Abyss-sphere"
+unlimit "Needlebug Nest"

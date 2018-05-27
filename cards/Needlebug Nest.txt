@@ -1,0 +1,6 @@
+card "Needlebug Nest" {
+	release ocg 
+	release tcg 
+	type 
+}
+

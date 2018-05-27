@@ -1,0 +1,6 @@
+card "Instant Fusion" {
+	release ocg 
+	release tcg 
+	type 
+}
+

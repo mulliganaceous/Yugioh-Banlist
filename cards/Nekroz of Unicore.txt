@@ -1,0 +1,6 @@
+card "Nekroz of Unicore" {
+	release ocg 
+	release tcg 
+	type 
+}
+

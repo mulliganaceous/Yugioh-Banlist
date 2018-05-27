@@ -1,0 +1,43 @@
+format T
+year 2015-04
+
+#LIST
+forbid "Blaster, Dragon Ruler of Infernos"
+unlimit "Burner, Dragon Ruler of Sparks"
+forbid "Redox, Dragon Ruler of Boulders"
+unlimit "Reactan, Dragon Ruler of Pebbles"
+forbid "Tempest, Dragon Ruler of Storms"
+unlimit "Lightning, Dragon Ruler of Drafts"
+forbid "Tidal, Dragon Ruler of Waterfalls"
+unlimit "Stream, Dragon Ruler of Droplets"
+
+forbid "Snatch Steal"
+
+nerf limit "Sinister Serpent"
+nerf limit "Exchange of the Spirit"
+nerf limit "Temple of the Kings"
+nerf limit "Crush Card Virus"
+nerf limit "Ring of Destruction"
+
+limit "Tour Guide From the Underworld"
+
+limit "Dragon Ravine"
+limit "Preparation of Rites"
+limit "Saqlifice"
+limit "Symbol of Heritage"
+
+limit "Skill Drain"
+limit "Vanity's Emptiness"
+
+semilimit "Legendary Six Samurai - Shi En"
+semilimit "Nekroz of Brionac"
+semilimit "Qliphort Scout"
+semilimit "Charge of the Light Brigade"
+semilimit "Sacred Sword of Seven Stars"
+
+unlimit "Brotherhood of the Fire Fist - Spirit"
+unlimit "Gladiator Beast Bestiari"
+unlimit "Gorz the Emissary of Darkness"
+unlimit "Goyo Guardian"
+unlimit "Lonefire Blossom"
+unlimit "Hieratic Seal of Convocation"

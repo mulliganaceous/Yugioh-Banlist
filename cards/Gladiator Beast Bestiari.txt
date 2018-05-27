@@ -1,0 +1,6 @@
+card "Gladiator Beast Bestiari" {
+	release ocg 
+	release tcg 
+	type 
+}
+

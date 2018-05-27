@@ -1,0 +1,6 @@
+card "The Forceful Sentry" {
+	release ocg 
+	release tcg 
+	type 
+}
+

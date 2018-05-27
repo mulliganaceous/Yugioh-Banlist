@@ -1,0 +1,6 @@
+card "Level Eater" {
+	release ocg 
+	release tcg 
+	type 
+}
+

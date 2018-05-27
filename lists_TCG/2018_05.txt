@@ -1,0 +1,25 @@
+format T
+year 2018-05
+
+#LIST
+forbid "Astrograph Sorcerer"
+forbid "Master Peace, the True Dracoslaying King"
+forbid "Phoenixian Cluster Amaryllis"
+forbid "Supreme King Dragon Starving Venom"
+forbid "Ancient Fairy Dragon"
+forbid "Rank-Up-Magic Argent Chaos Force"
+forbid "That Grass Looks Greener"
+
+limit "Dinomight Knight, the True Dracofighter"
+limit "Gem-Knight Master Diamond"
+limit "Chain Strike"
+
+semilimit "Apoqliphort Towers"
+semilimit "Ring of Destruction"
+
+unlimit "Atlantean Dragoons"
+unlimit "Grandsoil the Elemental Lord"
+unlimit "Ignis Heat, the True Dracowarrior"
+unlimit "Mathematician"
+unlimit "Neo-Spacian Grand Mole"
+unlimit "Compulsory Evacuation Device"

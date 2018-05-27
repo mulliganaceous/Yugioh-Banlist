@@ -1,0 +1,6 @@
+card "Sacred Sword of Seven Stars" {
+	release ocg 
+	release tcg 
+	type 
+}
+

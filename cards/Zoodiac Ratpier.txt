@@ -1,0 +1,6 @@
+card "Zoodiac Ratpier" {
+	release ocg 
+	release tcg 
+	type 
+}
+

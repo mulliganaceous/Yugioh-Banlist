@@ -1,0 +1,6 @@
+card "Delinquent Duo" {
+	release ocg 
+	release tcg 
+	type 
+}
+

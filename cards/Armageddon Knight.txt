@@ -1,0 +1,6 @@
+card "Armageddon Knight" {
+	release ocg 2007 11 23
+	release tcg 2008 01 26
+	type Monster Effect
+}
+

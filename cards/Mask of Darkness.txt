@@ -1,0 +1,6 @@
+card "Mask of Darkness" {
+	release ocg 
+	release tcg 
+	type 
+}
+

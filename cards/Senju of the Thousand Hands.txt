@@ -1,0 +1,6 @@
+card "Senju of the Thousand Hands" {
+	release ocg 
+	release tcg 
+	type 
+}
+

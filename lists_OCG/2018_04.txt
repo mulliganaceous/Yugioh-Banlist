@@ -1,0 +1,30 @@
+format O
+year 2018-04
+
+#LIST
+forbid "Blackwing - Gofu the Vague Shadow"
+forbid "Phoenixian Cluster Amaryllis"
+
+nerf limit "Destiny HERO - Disk Commander"
+limit "Double Iris Magician"
+limit "El Shaddoll Construct"
+limit "El Shaddoll Winda"
+limit "Grinder Golem"
+limit "Invoked Mechaba"
+limit "Lonefire Blossom"
+limit "Predaplant Ophrys Scorpio"
+limit "Supreme King Dragon Darkwurm"
+limit "Spellbook of Knowledge"
+
+semilimit "Aleister the Invoker"
+semilimit "Ash Blossom & Joyous Spring"
+semilimit "True Draco Heritage"
+semilimit "Solemn Judgment"
+
+unlimit "Reborn Tengu"
+unlimit "Summoner Monk"
+unlimit "Tribe-Infecting Virus"
+unlimit "Monster Gate"
+unlimit "Pantheism of the Monarchs"
+unlimit "Pot of Avarice"
+unlimit "Spellbook of Secrets"

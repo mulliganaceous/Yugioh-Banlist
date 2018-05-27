@@ -1,0 +1,6 @@
+card "Sinister Serpent" {
+	release ocg 
+	release tcg 
+	type 
+}
+

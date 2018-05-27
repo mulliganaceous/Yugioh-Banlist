@@ -1,0 +1,6 @@
+card "Reckless Greed" {
+	release ocg 
+	release tcg 
+	type 
+}
+

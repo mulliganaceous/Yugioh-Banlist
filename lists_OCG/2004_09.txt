@@ -1,0 +1,23 @@
+format O
+year 2004-09
+
+#LIST
+forbid "Chaos Emperor Dragon - Envoy of the End"
+forbid "Sangan"
+forbid "Witch of the Black Forest"
+forbid "Dark Hole"
+forbid "Graceful Charity"
+forbid "Monster Reborn"
+forbid "United We Stand"
+forbid "Mirror Force"
+
+limit "Cyber Jar"
+limit "Fiber Jar"
+limit "Injection Fairy Lily"
+limit "Protector of the Sanctuary"
+limit "Change of Heart"
+limit "Mystical Space Typhoon"
+limit "Painful Choice"
+limit "Crush Card Virus"
+limit "Sixth Sense"
+limit "Torrential Tribute"

@@ -1,0 +1,6 @@
+card "Time Seal" {
+	release ocg 
+	release tcg 
+	type 
+}
+

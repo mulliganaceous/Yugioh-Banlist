@@ -1,0 +1,6 @@
+card "Right Arm of the Forbidden One" {
+	release ocg 
+	release tcg 
+	type 
+}
+

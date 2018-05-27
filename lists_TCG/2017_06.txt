@@ -1,0 +1,12 @@
+format T
+year 2017-06
+
+#LIST
+forbid "Elder Entity Norden"
+
+limit "Speedroid Terrortop"
+limit "That Grass Looks Greener"
+
+unlimit "Performapal Skullcrobat Joker"
+unlimit "Wisdom-Eye Magician"
+unlimit "Pendulum Call"

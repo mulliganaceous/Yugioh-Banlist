@@ -1,0 +1,6 @@
+card "Reborn Tengu" {
+	release ocg 
+	release tcg 
+	type 
+}
+

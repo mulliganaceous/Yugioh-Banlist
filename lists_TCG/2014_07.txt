@@ -1,0 +1,13 @@
+format T
+year 2014-07
+
+#LIST
+limit "Goyo Guardian"
+limit "Geargiagear"
+
+semilimit "Formula Synchron"
+semilimit "Magician of Faith"
+semilimit "Reinforcement of the Army"
+
+unlimit "Dimensional Prison"
+unlimit "Mirror Force"

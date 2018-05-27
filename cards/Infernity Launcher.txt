@@ -1,0 +1,6 @@
+card "Infernity Launcher" {
+	release ocg 
+	release tcg 
+	type 
+}
+

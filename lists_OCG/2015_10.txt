@@ -1,0 +1,38 @@
+format O
+year 2015-10
+
+#LIST
+forbid "Elder Entity Norden"
+forbid "Tellarknight Ptolemaeus"
+
+limit "Deep Sea Diva"
+limit "Elemental HERO Shadow Mist"
+limit "Glow-Up Bulb"
+limit "Shurit, Strategist of the Nekroz"
+limit "Wisdom-Eye Magician"
+
+semilimit "Evigishki Gustkraken"
+semilimit "Kuribandit"
+semilimit "Mermail Abyssteus"
+semilimit "Allure of Darkness"
+semilimit "Book of Moon"
+semilimit "Charge of the Light Brigade"
+semilimit "Dragon Shrine"
+semilimit "Gateway of the Six"
+semilimit "Gold Sarcophagus"
+semilimit "Mind Control"
+semilimit "Crush Card Virus"
+semilimit "Sinister Shadow Games"
+
+unlimit "Blackwing - Gale the Whirlwind"
+unlimit "Chaos Emperor Dragon - Envoy of the End"
+unlimit "Dark Magician of Chaos"
+unlimit "Elemental HERO Bubbleman"
+unlimit "Formula Synchron"
+unlimit "Honest"
+unlimit "Manju of the Ten Thousand Hands"
+unlimit "Wind-Up Carrier Zenmaity"
+unlimit "Instant Fusion"
+unlimit "Magical Stone Excavation"
+unlimit "Bottomless Trap Hole"
+unlimit "The Transmigration Prophecy"

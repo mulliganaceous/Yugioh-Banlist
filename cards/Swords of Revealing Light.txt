@@ -1,0 +1,6 @@
+card "Swords of Revealing Light" {
+	release ocg 
+	release tcg 
+	type 
+}
+

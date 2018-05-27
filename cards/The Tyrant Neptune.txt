@@ -1,0 +1,6 @@
+card "The Tyrant Neptune" {
+	release ocg 
+	release tcg 
+	type 
+}
+

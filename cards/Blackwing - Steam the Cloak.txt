@@ -1,0 +1,6 @@
+card "Blackwing - Steam the Cloak" {
+	release ocg 2014 05 17
+	release tcg 2014 04 25
+	type Monster Effect
+}
+

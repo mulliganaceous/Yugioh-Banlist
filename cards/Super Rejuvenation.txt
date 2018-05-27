@@ -1,0 +1,6 @@
+card "Super Rejuvenation" {
+	release ocg 
+	release tcg 
+	type 
+}
+

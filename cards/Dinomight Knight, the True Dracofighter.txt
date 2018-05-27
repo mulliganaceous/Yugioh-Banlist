@@ -1,0 +1,6 @@
+card "Dinomight Knight, the True Dracofighter" {
+	release ocg 
+	release tcg 
+	type 
+}
+

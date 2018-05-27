@@ -1,0 +1,6 @@
+card "Wind-Up Shark" {
+	release ocg 
+	release tcg 
+	type 
+}
+

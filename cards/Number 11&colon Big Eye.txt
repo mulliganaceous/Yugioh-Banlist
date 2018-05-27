@@ -1,0 +1,6 @@
+card "Number 11: Big Eye" {
+	release ocg 
+	release tcg 
+	type 
+}
+

@@ -1,0 +1,6 @@
+card "Evigishki Mind Augus" {
+	release ocg 
+	release tcg 
+	type 
+}
+

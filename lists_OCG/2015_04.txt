@@ -1,0 +1,40 @@
+format O
+year 2015-04
+
+#LIST
+forbid "Blaster, Dragon Ruler of Infernos"
+forbid "Redox, Dragon Ruler of Boulders"
+forbid "Tempest, Dragon Ruler of Storms"
+forbid "Tidal, Dragon Ruler of Waterfalls"
+unlimit "Burner, Dragon Ruler of Sparks"
+unlimit "Reactan, Dragon Ruler of Pebbles"
+unlimit "Lightning, Dragon Ruler of Drafts"
+unlimit "Stream, Dragon Ruler of Droplets"
+
+forbid "El Shaddoll Construct"
+
+nerf limit "Dark Magician of Chaos"
+limit "Kuribandit"
+limit "Mathematician"
+limit "Nekroz of Brionac"
+limit "El Shaddoll Fusion"
+limit "Nekroz Cycle"
+limit "Saqlifice"
+limit "Vanity's Emptiness"
+
+semilimit "Formula Synchron"
+semilimit "Manju of the Ten Thousand Hands"
+semilimit "Qliphort Scout"
+semilimit "Wind-Up Carrier Zenmaity"
+
+unlimit "Archlord Kristya"
+unlimit "Brotherhood of the Fire Fist - Rooster"
+unlimit "El Shaddoll Winda"
+unlimit "Inzektor Hornet"
+unlimit "Legendary Six Samurai - Shi En"
+unlimit "Number 11: Big Eye"
+unlimit "Senju of the Thousand Hands"
+unlimit "Sinister Serpent"
+unlimit "Monster Gate"
+unlimit "Temple of the Kings"
+unlimit "Exchange of the Spirit"

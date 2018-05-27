@@ -1,0 +1,6 @@
+card "Formula Synchron" {
+	release ocg 
+	release tcg 
+	type 
+}
+

@@ -1,0 +1,6 @@
+card "Megamorph" {
+	release ocg 
+	release tcg 
+	type 
+}
+

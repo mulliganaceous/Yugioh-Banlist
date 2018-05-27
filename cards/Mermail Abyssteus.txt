@@ -1,0 +1,6 @@
+card "Mermail Abyssteus" {
+	release ocg 
+	release tcg 
+	type 
+}
+

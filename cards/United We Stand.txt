@@ -1,0 +1,6 @@
+card "United We Stand" {
+	release ocg 
+	release tcg 
+	type 
+}
+

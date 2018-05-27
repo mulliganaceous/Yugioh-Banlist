@@ -1,0 +1,6 @@
+card "Star Seraph Sovereignty" {
+	release ocg 
+	release tcg 
+	type 
+}
+

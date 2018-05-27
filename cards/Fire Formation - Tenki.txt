@@ -1,0 +1,6 @@
+card "Fire Formation - Tenki" {
+	release ocg 
+	release tcg 
+	type 
+}
+

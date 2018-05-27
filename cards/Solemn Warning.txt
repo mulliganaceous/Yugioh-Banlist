@@ -1,0 +1,6 @@
+card "Solemn Warning" {
+	release ocg 
+	release tcg 
+	type 
+}
+

@@ -1,0 +1,6 @@
+card "D.D. Warrior Lady" {
+	release ocg 
+	release tcg 
+	type 
+}
+

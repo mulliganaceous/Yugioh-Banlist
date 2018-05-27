@@ -1,0 +1,30 @@
+format O
+year 2016-10
+
+#LIST
+forbid "Level Eater"
+
+limit "Cyber-Stein"
+limit "Magician of Faith"
+limit "Majespecter Unicorn - Kirin"
+limit "PSY-Framelord Omega"
+
+semilimit "Artifact Moralltach"
+semilimit "Black Luster Soldier - Envoy of the Beginning"
+semilimit "D/D Lamia"
+semilimit "D/D Swirl Slime"
+semilimit "Inzektor Dragonfly"
+semilimit "Mathematician"
+semilimit "Star Seraph Sovereignty"
+semilimit "Wisdom-Eye Magician"
+semilimit "Domain of the True Monarchs"
+semilimit "El Shaddoll Fusion"
+semilimit "Monster Gate"
+
+unlimit "Qliphort Scout"
+unlimit "Sangan"
+unlimit "Thousand-Eyes Restrict"
+unlimit "Charge of the Light Brigade"
+unlimit "Gateway of the Six"
+unlimit "Sinister Shadow Games"
+unlimit "Wall of Revealing Light"

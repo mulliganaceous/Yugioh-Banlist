@@ -1,0 +1,6 @@
+card "Kaiser Colosseum" {
+	release ocg 
+	release tcg 
+	type 
+}
+

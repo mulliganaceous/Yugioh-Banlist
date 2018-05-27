@@ -1,0 +1,6 @@
+card "Solemn Judgment" {
+	release ocg 
+	release tcg 
+	type 
+}
+

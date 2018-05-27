@@ -1,0 +1,38 @@
+format O
+year 2017-10
+
+#LIST
+forbid "Master Peace, the True Dracoslaying King"
+forbid "Dragonic Diagram"
+
+limit "ABC-Dragon Buster"
+limit "Aleister the Invoker"
+limit "Babycerasaurus"
+limit "Denglong, First of the Yang Zing"
+limit "Dinomight Knight, the True Dracofighter"
+limit "Souleating Oviraptor"
+limit "Tribe-Infecting Virus"
+limit "Spellbook of Secrets"
+limit "Terraforming"
+limit "True Draco Heritage"
+limit "Trickstar Reincarnation"
+limit "True King's Return"
+
+semilimit "Maxx \"C\""
+semilimit "Summoner Monk"
+semilimit "Windwitch - Ice Bell"
+semilimit "Fossil Dig"
+semilimit "Future Fusion"
+semilimit "Pot of Avarice"
+
+unlimit "Performapal Pendulum Sorcerer"
+unlimit "Rescue Cat"
+unlimit "Scarm, Malebranche of the Burning Abyss"
+unlimit "Witch of the Black Forest"
+unlimit "Burial from a Different Dimension"
+unlimit "Domain of the True Monarchs"
+unlimit "Dragon Ravine"
+unlimit "Fire Formation - Tenki"
+unlimit "Preparation of Rites"
+unlimit "Saqlifice"
+unlimit "Wavering Eyes"

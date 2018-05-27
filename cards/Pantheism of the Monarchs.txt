@@ -1,0 +1,6 @@
+card "Pantheism of the Monarchs" {
+	release ocg 
+	release tcg 
+	type 
+}
+

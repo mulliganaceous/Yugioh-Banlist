@@ -1,0 +1,6 @@
+card "Card Trooper" {
+	release ocg 
+	release tcg 
+	type 
+}
+

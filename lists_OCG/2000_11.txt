@@ -1,0 +1,13 @@
+format O
+year 2000-11
+
+#LIST
+limit "Cyber Jar"
+limit "Jinzo"
+limit "Morphing Jar #2"
+limit "Sinister Serpent"
+limit "Snatch Steal"
+limit "Swords of Revealing Light"
+
+semilimit "Heavy Storm"
+semilimit "Imperial Order"

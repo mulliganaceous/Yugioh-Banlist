@@ -1,0 +1,6 @@
+card "Makyura the Destructor" {
+	release ocg 
+	release tcg 
+	type 
+}
+

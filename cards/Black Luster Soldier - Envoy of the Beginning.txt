@@ -1,0 +1,6 @@
+card "Black Luster Soldier - Envoy of the Beginning" {
+	release ocg 2000 09 28
+	release tcg 2002 10 20
+	type Trap Normal
+}
+

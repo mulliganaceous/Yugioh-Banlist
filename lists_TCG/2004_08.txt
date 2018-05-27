@@ -1,0 +1,17 @@
+format T
+year 2004-08
+
+#LIST
+forbid "Chaos Emperor Dragon - Envoy of the End"
+forbid "Sangan"
+forbid "Witch of the Black Forest"
+forbid "Yata-Garasu"
+forbid "Dark Hole"
+forbid "Delinquent Duo"
+forbid "Graceful Charity"
+forbid "Harpie's Feather Duster"
+forbid "Monster Reborn"
+forbid "Raigeki"
+forbid "United We Stand"
+forbid "Imperial Order"
+forbid "Mirror Force"

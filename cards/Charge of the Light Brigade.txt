@@ -1,0 +1,6 @@
+card "Charge of the Light Brigade" {
+	release ocg 
+	release tcg 
+	type 
+}
+

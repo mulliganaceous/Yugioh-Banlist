@@ -1,0 +1,6 @@
+card "Tribe-Infecting Virus" {
+	release ocg 
+	release tcg 
+	type 
+}
+

@@ -1,0 +1,32 @@
+format T
+year 2007-03
+analogue ocg 2007-03
+
+#LIST
+forbid "Breaker the Magical Warrior"
+forbid "Cyber-Stein"
+forbid "Magician of Faith"
+forbid "Graceful Charity"
+forbid "Last Will"
+
+limit "Elemental HERO Stratos"
+limit "Neo-Spacian Grand Mole"
+limit "Chain Strike"
+limit "Dimension Fusion"
+limit "Giant Trunade"
+limit "Overload Fusion"
+limit "Snatch Steal"
+limit "Crush Card Virus"
+limit "Mind Crush"
+
+semilimit "D.D. Assailant"
+semilimit "Mask of Darkness"
+semilimit "Metamorphosis"
+
+unlimit "Exiled Force"
+unlimit "Injection Fairy Lily"
+unlimit "Sacred Phoenix of Nephthys"
+unlimit "Upstart Goblin"
+
+limit "Green Baboon, Defender of the Forest" 2007-06
+emergency limit "Magical Stone Excavation" 2007-06

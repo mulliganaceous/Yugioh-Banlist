@@ -1,0 +1,6 @@
+card "The Transmigration Prophecy" {
+	release ocg 
+	release tcg 
+	type 
+}
+

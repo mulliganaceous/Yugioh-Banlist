@@ -1,0 +1,24 @@
+format T
+year 2016-08
+
+#LIST
+forbid "Performapal Monkeyboard"
+forbid "Kaiser Colosseum"
+
+limit "Beatrice, Lady of the Eternal"
+limit "Cir, Malebranche of the Burning Abyss"
+limit "Ehther the Heavenly Monarch"
+limit "Kozmo Dark Destroyer"
+limit "Majespecter Unicorn - Kirin"
+limit "Emergency Teleport"
+limit "Pantheism of the Monarchs"
+limit "Pendulum Call"
+limit "The Monarchs Stormforth"
+
+semilimit "Maxx \"C\""
+semilimit "Thunder King Rai-Oh"
+semilimit "Wind-Up Magician"
+
+unlimit "Thousand-Eyes Restrict"
+unlimit "Allure of Darkness"
+unlimit "Gold Sarcophagus"

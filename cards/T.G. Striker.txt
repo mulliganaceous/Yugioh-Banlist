@@ -1,0 +1,6 @@
+card "T.G. Striker" {
+	release ocg 
+	release tcg 
+	type 
+}
+

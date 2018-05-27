@@ -1,0 +1,6 @@
+card "Gravity Bind" {
+	release ocg 
+	release tcg 
+	type 
+}
+

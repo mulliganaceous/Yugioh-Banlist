@@ -1,0 +1,971 @@
+<div style="font-size:8pt; font-family:monospace">
+{| class="wikitable" style="width: 880px; line-height: 10pt"
+|-
+! rowspan=2 scope="col" style="width: 160px"| Card
+! colspan=2 scope="col" style="width:120px"|1999
+! colspan=5 scope="col" style="width:120px"|2000
+! colspan=2 scope="col" style="width:120px"|2001
+! colspan=2 scope="col" style="width:120px"|2002
+! colspan=4 scope="col" style="width:120px"|2003
+! colspan=2 scope="col" style="width:120px"|2004
+|-
+! colspan=1 scope="col"|INI
+! colspan=1 scope="col"|JUL
+! colspan=1 scope="col"|FEB
+! colspan=1 scope="col"|MAY
+! colspan=1 scope="col"|JUL
+! colspan=1 scope="col"|AUG
+! colspan=1 scope="col"|NOV
+! colspan=1 scope="col"|JAN
+! colspan=1 scope="col"|MAY
+! colspan=1 scope="col"|JAN
+! colspan=1 scope="col"|MAY
+! colspan=1 scope="col"|JAN
+! colspan=1 scope="col"|APR
+! colspan=1 scope="col"|JUL
+! colspan=1 scope="col"|OCT
+! colspan=1 scope="col"|MAR
+! colspan=1 scope="col"|SEP
+|-
+| scope"row" | [[A Hero Lives]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[ABC-Dragon Buster]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Abyss Soldier]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Abyss-sphere]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Advanced Ritual Art]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Aleister the Invoker]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Allure of Darkness]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Ancient Fairy Dragon]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Apoqliphort Towers]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Apprentice Magician]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Archlord Kristya]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Armageddon Knight]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Artifact Moralltach]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Ash Blossom & Joyous Spring]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Astrograph Sorcerer]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Atlantean Dragoons]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Babycerasaurus]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Backup Soldier]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Beatrice, Lady of the Eternal]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Black Luster Soldier - Envoy of the Beginning]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Black Rose Dragon]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Black Whirlwind]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Blackwing - Gale the Whirlwind]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Blackwing - Gofu the Vague Shadow]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Blackwing - Kalut the Moon Shadow]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Blackwing - Steam the Cloak]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Blaster, Dragon Ruler of Infernos]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Blaze Fenix, the Burning Bombardment Bird]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Book of Moon]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Book of Taiyou]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Bottomless Trap Hole]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Brain Control]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Breaker the Magical Warrior]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Brionac, Dragon of the Ice Barrier]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Brotherhood of the Fire Fist - Rooster]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Brotherhood of the Fire Fist - Spirit]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Burial from a Different Dimension]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Burner, Dragon Ruler of Sparks]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Butterfly Dagger - Elma]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Call of the Haunted]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Card Destruction]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Card Trooper]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Card of Demise]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Card of Safe Return]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Ceasefire]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Chain Strike]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Change of Heart]] || {{Did not exist}}|| {{Did not exist}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Forbidden}}|| {{Limited}}
+|-
+| scope"row" | [[Chaos Emperor Dragon - Envoy of the End]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Forbidden}}
+|-
+! rowspan=2 scope="col" style="width: 160px"| Card
+! colspan=2 scope="col" style="width:120px"|1999
+! colspan=5 scope="col" style="width:120px"|2000
+! colspan=2 scope="col" style="width:120px"|2001
+! colspan=2 scope="col" style="width:120px"|2002
+! colspan=4 scope="col" style="width:120px"|2003
+! colspan=2 scope="col" style="width:120px"|2004
+|-
+! colspan=1 scope="col"|INI
+! colspan=1 scope="col"|JUL
+! colspan=1 scope="col"|FEB
+! colspan=1 scope="col"|MAY
+! colspan=1 scope="col"|JUL
+! colspan=1 scope="col"|AUG
+! colspan=1 scope="col"|NOV
+! colspan=1 scope="col"|JAN
+! colspan=1 scope="col"|MAY
+! colspan=1 scope="col"|JAN
+! colspan=1 scope="col"|MAY
+! colspan=1 scope="col"|JAN
+! colspan=1 scope="col"|APR
+! colspan=1 scope="col"|JUL
+! colspan=1 scope="col"|OCT
+! colspan=1 scope="col"|MAR
+! colspan=1 scope="col"|SEP
+|-
+| scope"row" | [[Chaos Sorcerer]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Charge of the Light Brigade]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Chicken Game]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Chronomaly Nebra Disk]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Cir, Malebranche of the Burning Abyss]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Coach Soldier Wolfbark]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Cold Wave]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Compulsory Evacuation Device]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Confiscation]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Constellar Ptolemy M7]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Creature Swap]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}
+|-
+| scope"row" | [[Crush Card Virus]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Limited}}
+|-
+| scope"row" | [[Cyber Dragon]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Cyber Jar]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Forbidden}}|| {{Limited}}
+|-
+| scope"row" | [[Cyber-Stein]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[D.D. Assailant]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[D.D. Warrior Lady]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[D/D Lamia]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[D/D Swirl Slime]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Daigusto Emeral]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Dandylion]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Dante, Traveler of the Burning Abyss]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Dark Armed Dragon]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Dark Hole]] || {{Did not exist}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Forbidden}}
+|-
+| scope"row" | [[Dark Magician of Chaos]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Dark Scorpion - Chick the Yellow]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Dark Strike Fighter]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Debris Dragon]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Deck Devastation Virus]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Deep Sea Diva]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Delinquent Duo]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Forbidden}}|| {{Forbidden}}
+|-
+| scope"row" | [[Demise, King of Armageddon]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Denglong, First of the Yang Zing]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Destiny Draw]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Destiny HERO - Disk Commander]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Destiny HERO - Malicious]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Dewloren, Tiger King of the Ice Barrier]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Dimension Fusion]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Dimensional Fissure]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Dimensional Prison]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Dinomight Knight, the True Dracofighter]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Divine Wind of Mist Valley]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Djinn Releaser of Rituals]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Domain of the True Monarchs]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Double Iris Magician]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Draco Face-Off]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Dragon Ravine]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Dragon Shrine]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+! rowspan=2 scope="col" style="width: 160px"| Card
+! colspan=2 scope="col" style="width:120px"|1999
+! colspan=5 scope="col" style="width:120px"|2000
+! colspan=2 scope="col" style="width:120px"|2001
+! colspan=2 scope="col" style="width:120px"|2002
+! colspan=4 scope="col" style="width:120px"|2003
+! colspan=2 scope="col" style="width:120px"|2004
+|-
+! colspan=1 scope="col"|INI
+! colspan=1 scope="col"|JUL
+! colspan=1 scope="col"|FEB
+! colspan=1 scope="col"|MAY
+! colspan=1 scope="col"|JUL
+! colspan=1 scope="col"|AUG
+! colspan=1 scope="col"|NOV
+! colspan=1 scope="col"|JAN
+! colspan=1 scope="col"|MAY
+! colspan=1 scope="col"|JAN
+! colspan=1 scope="col"|MAY
+! colspan=1 scope="col"|JAN
+! colspan=1 scope="col"|APR
+! colspan=1 scope="col"|JUL
+! colspan=1 scope="col"|OCT
+! colspan=1 scope="col"|MAR
+! colspan=1 scope="col"|SEP
+|-
+| scope"row" | [[Dragonic Diagram]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Drop Off]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[E - Emergency Call]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Ehther the Heavenly Monarch]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[El Shaddoll Construct]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[El Shaddoll Fusion]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[El Shaddoll Winda]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Elder Entity Norden]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Elemental HERO Bubbleman]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Elemental HERO Shadow Mist]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Elemental HERO Stratos]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Emergency Provisions]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Emergency Teleport]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Eradicator Epidemic Virus]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Evigishki Gustkraken]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Evigishki Mind Augus]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Evilswarm Exciton Knight]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Evilswarm Ophion]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Exchange of the Spirit]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Exiled Force]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Exodia the Forbidden One]] || {{Did not exist}}|| {{Did not exist}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Fairy Tail - Snow]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Fiber Jar]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Forbidden}}|| {{Limited}}
+|-
+| scope"row" | [[Final Countdown]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Fire Formation - Tenki]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Firewall Dragon]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Fishborg Blaster]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Fissure]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Foolish Burial]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Formula Synchron]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Fossil Dig]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Future Fusion]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Gateway of the Six]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Geargiagear]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Gem-Knight Master Diamond]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Genex Ally Birdman]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Giant Trunade]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Gladiator Beast Bestiari]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Glow-Up Bulb]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Goblin Zombie]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Gold Sarcophagus]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Good Goblin Housekeeping]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Gorz the Emissary of Darkness]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Goyo Guardian]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Graceful Charity]] || {{Did not exist}}|| {{Did not exist}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Forbidden}}
+|-
+| scope"row" | [[Graff, Malebranche of the Burning Abyss]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Grandsoil the Elemental Lord]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Gravekeeper's Servant]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+! rowspan=2 scope="col" style="width: 160px"| Card
+! colspan=2 scope="col" style="width:120px"|1999
+! colspan=5 scope="col" style="width:120px"|2000
+! colspan=2 scope="col" style="width:120px"|2001
+! colspan=2 scope="col" style="width:120px"|2002
+! colspan=4 scope="col" style="width:120px"|2003
+! colspan=2 scope="col" style="width:120px"|2004
+|-
+! colspan=1 scope="col"|INI
+! colspan=1 scope="col"|JUL
+! colspan=1 scope="col"|FEB
+! colspan=1 scope="col"|MAY
+! colspan=1 scope="col"|JUL
+! colspan=1 scope="col"|AUG
+! colspan=1 scope="col"|NOV
+! colspan=1 scope="col"|JAN
+! colspan=1 scope="col"|MAY
+! colspan=1 scope="col"|JAN
+! colspan=1 scope="col"|MAY
+! colspan=1 scope="col"|JAN
+! colspan=1 scope="col"|APR
+! colspan=1 scope="col"|JUL
+! colspan=1 scope="col"|OCT
+! colspan=1 scope="col"|MAR
+! colspan=1 scope="col"|SEP
+|-
+| scope"row" | [[Gravity Bind]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Green Baboon, Defender of the Forest]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Green Gadget]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Grinder Golem]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Guardian Sphinx]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Harpie's Feather Duster]] || {{Did not exist}}|| {{Did not exist}}|| {{Semi-limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Forbidden}}|| {{Forbidden}}
+|-
+| scope"row" | [[Heavy Storm]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Hieratic Seal of Convocation]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Honest]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Icarus Attack]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Ignis Heat, the True Dracowarrior]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Ignister Prominence, the Blasting Dracoslayer]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Imperial Order]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Semi-limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Forbidden}}|| {{Forbidden}}
+|-
+| scope"row" | [[Infernity Archfiend]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Infernity Barrier]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Infernity Launcher]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Injection Fairy Lily]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Forbidden}}|| {{Limited}}
+|-
+| scope"row" | [[Instant Fusion]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Interrupted Kaiju Slumber]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Invoked Mechaba]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Inzektor Dragonfly]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Inzektor Hornet]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Jinzo]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Judgment Dragon]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Kaiser Colosseum]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Kozmo Dark Destroyer]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Kuribandit]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Last Turn]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}
+|-
+| scope"row" | [[Last Will]] || {{Did not exist}}|| {{Did not exist}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Semi-limited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Lavalval Chain]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Left Arm of the Forbidden One]] || {{Did not exist}}|| {{Did not exist}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Left Leg of the Forbidden One]] || {{Did not exist}}|| {{Did not exist}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Legendary Six Samurai - Shi En]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Level Eater]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Level Limit - Area B]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Life Equalizer]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Light and Darkness Dragon]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Lightning Vortex]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Lightning, Dragon Ruler of Drafts]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Limiter Removal]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Lonefire Blossom]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Lumina, Lightsworn Summoner]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Luster Pendulum, the Dracoslayer]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Macro Cosmos]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Mage Power]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Magic Cylinder]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Magical Explosion]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Magical Scientist]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+! rowspan=2 scope="col" style="width: 160px"| Card
+! colspan=2 scope="col" style="width:120px"|1999
+! colspan=5 scope="col" style="width:120px"|2000
+! colspan=2 scope="col" style="width:120px"|2001
+! colspan=2 scope="col" style="width:120px"|2002
+! colspan=4 scope="col" style="width:120px"|2003
+! colspan=2 scope="col" style="width:120px"|2004
+|-
+! colspan=1 scope="col"|INI
+! colspan=1 scope="col"|JUL
+! colspan=1 scope="col"|FEB
+! colspan=1 scope="col"|MAY
+! colspan=1 scope="col"|JUL
+! colspan=1 scope="col"|AUG
+! colspan=1 scope="col"|NOV
+! colspan=1 scope="col"|JAN
+! colspan=1 scope="col"|MAY
+! colspan=1 scope="col"|JAN
+! colspan=1 scope="col"|MAY
+! colspan=1 scope="col"|JAN
+! colspan=1 scope="col"|APR
+! colspan=1 scope="col"|JUL
+! colspan=1 scope="col"|OCT
+! colspan=1 scope="col"|MAR
+! colspan=1 scope="col"|SEP
+|-
+| scope"row" | [[Magical Stone Excavation]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Magician of Faith]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Majespecter Unicorn - Kirin]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Makyura the Destructor]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Limited}}|| {{Limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}
+|-
+| scope"row" | [[Manju of the Ten Thousand Hands]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Manticore of Darkness]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}
+|-
+| scope"row" | [[Marauding Captain]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}
+|-
+| scope"row" | [[Marshmallon]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Mask Change II]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Mask of Darkness]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Mass Driver]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Master Peace, the True Dracoslaying King]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Mathematician]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Maxx "C"]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Megamorph]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Mermail Abyssgunde]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Mermail Abyssteus]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Metamorphosis]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Mezuki]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Mind Control]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Mind Crush]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Mind Master]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Mirage of Nightmare]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Mirror Force]] || {{Did not exist}}|| {{Did not exist}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Forbidden}}
+|-
+| scope"row" | [[Miscellaneousaurus]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Monster Gate]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Monster Reborn]] || {{Did not exist}}|| {{Did not exist}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Forbidden}}
+|-
+| scope"row" | [[Morphing Jar]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}
+|-
+| scope"row" | [[Morphing Jar #2]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Limited}}|| {{Limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}
+|-
+| scope"row" | [[Mystical Space Typhoon]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Limited}}
+|-
+| scope"row" | [[Necro Gardna]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Necroface]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Needlebug Nest]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Nekroz Cycle]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Nekroz of Brionac]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Nekroz of Unicore]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Neo-Spacian Grand Mole]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Night Assailant]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Nobleman of Crossout]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}
+|-
+| scope"row" | [[Number 11: Big Eye]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Number 16: Shock Master]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Ojama Trio]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[One Day of Peace]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[One for One]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Overload Fusion]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[PSY-Framelord Omega]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Painful Choice]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Forbidden}}|| {{Limited}}
+|-
+| scope"row" | [[Pantheism of the Monarchs]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+! rowspan=2 scope="col" style="width: 160px"| Card
+! colspan=2 scope="col" style="width:120px"|1999
+! colspan=5 scope="col" style="width:120px"|2000
+! colspan=2 scope="col" style="width:120px"|2001
+! colspan=2 scope="col" style="width:120px"|2002
+! colspan=4 scope="col" style="width:120px"|2003
+! colspan=2 scope="col" style="width:120px"|2004
+|-
+! colspan=1 scope="col"|INI
+! colspan=1 scope="col"|JUL
+! colspan=1 scope="col"|FEB
+! colspan=1 scope="col"|MAY
+! colspan=1 scope="col"|JUL
+! colspan=1 scope="col"|AUG
+! colspan=1 scope="col"|NOV
+! colspan=1 scope="col"|JAN
+! colspan=1 scope="col"|MAY
+! colspan=1 scope="col"|JAN
+! colspan=1 scope="col"|MAY
+! colspan=1 scope="col"|JAN
+! colspan=1 scope="col"|APR
+! colspan=1 scope="col"|JUL
+! colspan=1 scope="col"|OCT
+! colspan=1 scope="col"|MAR
+! colspan=1 scope="col"|SEP
+|-
+| scope"row" | [[Pendulum Call]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Performage Damage Juggler]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Performage Plushfire]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Performapal Monkeyboard]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Performapal Pendulum Sorcerer]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Performapal Skullcrobat Joker]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Phantom of Chaos]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Phoenixian Cluster Amaryllis]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Plaguespreader Zombie]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Pot of Avarice]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Pot of Duality]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Pot of Greed]] || {{Did not exist}}|| {{Did not exist}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Predaplant Ophrys Scorpio]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Premature Burial]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Preparation of Rites]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Primal Seed]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Protector of the Sanctuary]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Limited}}
+|-
+| scope"row" | [[Qliphort Scout]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Raigeki]] || {{Did not exist}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Forbidden}}|| {{Forbidden}}
+|-
+| scope"row" | [[Raiza the Storm Monarch]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Rank-Up-Magic Argent Chaos Force]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Reactan, Dragon Ruler of Pebbles]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Reasoning]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Reborn Tengu]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Reckless Greed]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Red Gadget]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Red-Eyes Darkness Metal Dragon]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Redox, Dragon Ruler of Boulders]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Reflect Bounder]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Reinforcement of the Army]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}
+|-
+| scope"row" | [[Rekindling]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Rescue Cat]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Rescue Rabbit]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Return from the Different Dimension]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Right Arm of the Forbidden One]] || {{Did not exist}}|| {{Did not exist}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Right Leg of the Forbidden One]] || {{Did not exist}}|| {{Did not exist}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Ring of Destruction]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Riryoku]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Ritual Beast Ulti-Cannahawk]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Royal Decree]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Royal Oppression]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Royal Tribute]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[SPYRAL GEAR - Drone]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[SPYRAL Quik-Fix]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[SPYRAL Resort]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Sacred Phoenix of Nephthys]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Sacred Sword of Seven Stars]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Sangan]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Forbidden}}
+|-
+! rowspan=2 scope="col" style="width: 160px"| Card
+! colspan=2 scope="col" style="width:120px"|1999
+! colspan=5 scope="col" style="width:120px"|2000
+! colspan=2 scope="col" style="width:120px"|2001
+! colspan=2 scope="col" style="width:120px"|2002
+! colspan=4 scope="col" style="width:120px"|2003
+! colspan=2 scope="col" style="width:120px"|2004
+|-
+! colspan=1 scope="col"|INI
+! colspan=1 scope="col"|JUL
+! colspan=1 scope="col"|FEB
+! colspan=1 scope="col"|MAY
+! colspan=1 scope="col"|JUL
+! colspan=1 scope="col"|AUG
+! colspan=1 scope="col"|NOV
+! colspan=1 scope="col"|JAN
+! colspan=1 scope="col"|MAY
+! colspan=1 scope="col"|JAN
+! colspan=1 scope="col"|MAY
+! colspan=1 scope="col"|JAN
+! colspan=1 scope="col"|APR
+! colspan=1 scope="col"|JUL
+! colspan=1 scope="col"|OCT
+! colspan=1 scope="col"|MAR
+! colspan=1 scope="col"|SEP
+|-
+| scope"row" | [[Saqlifice]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Scapegoat]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Scarm, Malebranche of the Burning Abyss]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Self-Destruct Button]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Senju of the Thousand Hands]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Set Rotation]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Shien's Smoke Signal]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Shurit, Strategist of the Nekroz]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Sinister Serpent]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Sinister Shadow Games]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Sixth Sense]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Limited}}
+|-
+| scope"row" | [[Skill Drain]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Slate Warrior]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Limited}}|| {{Limited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Smashing Ground]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Snatch Steal]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Snipe Hunter]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Solemn Judgment]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Solemn Strike]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Solemn Warning]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Soul Charge]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Soul Drain]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Souleating Oviraptor]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Speedroid Terrortop]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Spellbook of Fate]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Spellbook of Judgment]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Spellbook of Knowledge]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Spellbook of Secrets]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Spirit Reaper]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Spore]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Star Seraph Sovereignty]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Stream, Dragon Ruler of Droplets]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Substitoad]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Summoner Monk]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Super Polymerization]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Super Rejuvenation]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Supreme King Dragon Darkwurm]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Supreme King Dragon Starving Venom]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Swords of Revealing Light]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Symbol of Heritage]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[T.G. Hyper Librarian]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[T.G. Striker]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Tellarknight Ptolemaeus]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Tempest, Dragon Ruler of Storms]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Temple of the Kings]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Terraforming]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[That Grass Looks Greener]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[The Agent of Mystery - Earth]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[The Forceful Sentry]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+! rowspan=2 scope="col" style="width: 160px"| Card
+! colspan=2 scope="col" style="width:120px"|1999
+! colspan=5 scope="col" style="width:120px"|2000
+! colspan=2 scope="col" style="width:120px"|2001
+! colspan=2 scope="col" style="width:120px"|2002
+! colspan=4 scope="col" style="width:120px"|2003
+! colspan=2 scope="col" style="width:120px"|2004
+|-
+! colspan=1 scope="col"|INI
+! colspan=1 scope="col"|JUL
+! colspan=1 scope="col"|FEB
+! colspan=1 scope="col"|MAY
+! colspan=1 scope="col"|JUL
+! colspan=1 scope="col"|AUG
+! colspan=1 scope="col"|NOV
+! colspan=1 scope="col"|JAN
+! colspan=1 scope="col"|MAY
+! colspan=1 scope="col"|JAN
+! colspan=1 scope="col"|MAY
+! colspan=1 scope="col"|JAN
+! colspan=1 scope="col"|APR
+! colspan=1 scope="col"|JUL
+! colspan=1 scope="col"|OCT
+! colspan=1 scope="col"|MAR
+! colspan=1 scope="col"|SEP
+|-
+| scope"row" | [[The Monarchs Stormforth]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[The Transmigration Prophecy]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[The Tyrant Neptune]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Thousand-Eyes Restrict]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Thunder King Rai-Oh]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Tidal, Dragon Ruler of Waterfalls]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Time Seal]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Toadally Awesome]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Torrential Tribute]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Limited}}
+|-
+| scope"row" | [[Tour Guide From the Underworld]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Tragoedia]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Trap Dustshoot]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Trap Hole]] || {{Did not exist}}|| {{Limited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Treeborn Frog]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Tribe-Infecting Virus]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Trickstar Reincarnation]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Trishula, Dragon of the Ice Barrier]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[True Draco Heritage]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[True King Lithosagym, the Disaster]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[True King's Return]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Tsukuyomi]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Twin-Headed Behemoth]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Ultimate Offering]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Union Hangar]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[United We Stand]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Forbidden}}
+|-
+| scope"row" | [[Upstart Goblin]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Vampire Lord]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Vanity's Emptiness]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Victory Dragon]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Wall of Revealing Light]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Wavering Eyes]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Wind-Up Carrier Zenmaity]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Wind-Up Hunter]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Wind-Up Magician]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Wind-Up Shark]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Windwitch - Ice Bell]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Wisdom-Eye Magician]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Witch of the Black Forest]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Forbidden}}
+|-
+| scope"row" | [[Yata-Garasu]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Forbidden}}|| {{Forbidden}}
+|-
+| scope"row" | [[Yellow Gadget]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Zoodiac Barrage]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Zoodiac Broadbull]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Zoodiac Drident]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Zoodiac Ratpier]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|}</div>

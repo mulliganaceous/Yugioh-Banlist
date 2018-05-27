@@ -1,0 +1,6 @@
+card "Draco Face-Off" {
+	release ocg 
+	release tcg 
+	type 
+}
+

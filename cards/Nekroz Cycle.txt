@@ -1,0 +1,6 @@
+card "Nekroz Cycle" {
+	release ocg 
+	release tcg 
+	type 
+}
+

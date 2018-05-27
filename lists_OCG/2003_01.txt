@@ -1,0 +1,13 @@
+format O
+year 2003-01
+
+#LIST
+limit "Breaker the Magical Warrior"
+limit "Sangan"
+limit "Sinister Serpent"
+limit "Tribe-Infecting Virus"
+limit "Butterfly Dagger - Elma"
+limit "Graceful Charity"
+limit "Mirage of Nightmare"
+
+semilimit "Creature Swap"

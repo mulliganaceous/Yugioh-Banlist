@@ -1,0 +1,6 @@
+card "Mind Control" {
+	release ocg 
+	release tcg 
+	type 
+}
+

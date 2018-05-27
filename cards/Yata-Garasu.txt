@@ -1,0 +1,6 @@
+card "Yata-Garasu" {
+	release ocg 
+	release tcg 
+	type 
+}
+

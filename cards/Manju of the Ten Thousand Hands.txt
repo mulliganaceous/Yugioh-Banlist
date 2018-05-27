@@ -1,0 +1,6 @@
+card "Manju of the Ten Thousand Hands" {
+	release ocg 
+	release tcg 
+	type 
+}
+

@@ -1,0 +1,6 @@
+card "Ceasefire" {
+	release ocg 
+	release tcg 
+	type 
+}
+

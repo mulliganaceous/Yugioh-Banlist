@@ -1,0 +1,6 @@
+card "Denglong, First of the Yang Zing" {
+	release ocg 
+	release tcg 
+	type 
+}
+

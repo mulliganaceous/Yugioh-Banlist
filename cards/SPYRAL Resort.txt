@@ -1,0 +1,6 @@
+card "SPYRAL Resort" {
+	release ocg 
+	release tcg 
+	type 
+}
+

@@ -1,0 +1,6 @@
+card "Abyss Soldier" {
+	release ocg 2004 07 29
+	release tcg 2004 11 26
+	type Monster Effect
+}
+

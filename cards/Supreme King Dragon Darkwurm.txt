@@ -1,0 +1,6 @@
+card "Supreme King Dragon Darkwurm" {
+	release ocg 
+	release tcg 
+	type 
+}
+

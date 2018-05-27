@@ -1,0 +1,8 @@
+format O
+year 2016-07
+
+#LIST
+semilimit "Sangan"
+semilimit "Thousand-Eyes Restrict"
+semilimit "Wall of Revealing Light"
+unlimit "Super Rejuvenation"

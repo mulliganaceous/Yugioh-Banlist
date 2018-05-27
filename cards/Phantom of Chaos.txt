@@ -1,0 +1,6 @@
+card "Phantom of Chaos" {
+	release ocg 
+	release tcg 
+	type 
+}
+

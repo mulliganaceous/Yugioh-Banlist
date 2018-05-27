@@ -1,0 +1,6 @@
+card "The Monarchs Stormforth" {
+	release ocg 
+	release tcg 
+	type 
+}
+

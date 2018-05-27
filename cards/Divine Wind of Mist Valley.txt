@@ -1,0 +1,6 @@
+card "Divine Wind of Mist Valley" {
+	release ocg 
+	release tcg 
+	type 
+}
+

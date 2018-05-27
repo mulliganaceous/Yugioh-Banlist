@@ -1,0 +1,6 @@
+card "Fishborg Blaster" {
+	release ocg 
+	release tcg 
+	type 
+}
+

@@ -1,0 +1,6 @@
+card "Sangan" {
+	release ocg 
+	release tcg 
+	type 
+}
+

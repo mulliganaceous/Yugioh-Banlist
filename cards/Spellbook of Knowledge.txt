@@ -1,0 +1,6 @@
+card "Spellbook of Knowledge" {
+	release ocg 
+	release tcg 
+	type 
+}
+

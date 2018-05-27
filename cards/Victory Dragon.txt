@@ -1,0 +1,6 @@
+card "Victory Dragon" {
+	release ocg 
+	release tcg 
+	type 
+}
+

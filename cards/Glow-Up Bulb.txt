@@ -1,0 +1,6 @@
+card "Glow-Up Bulb" {
+	release ocg 
+	release tcg 
+	type 
+}
+

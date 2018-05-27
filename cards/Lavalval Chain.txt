@@ -1,0 +1,6 @@
+card "Lavalval Chain" {
+	release ocg 
+	release tcg 
+	type 
+}
+

@@ -1,0 +1,6 @@
+card "Future Fusion" {
+	release ocg 
+	release tcg 
+	type 
+}
+

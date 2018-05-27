@@ -1,0 +1,6 @@
+card "Red-Eyes Darkness Metal Dragon" {
+	release ocg 
+	release tcg 
+	type 
+}
+

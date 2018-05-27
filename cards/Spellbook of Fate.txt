@@ -1,0 +1,6 @@
+card "Spellbook of Fate" {
+	release ocg 
+	release tcg 
+	type 
+}
+

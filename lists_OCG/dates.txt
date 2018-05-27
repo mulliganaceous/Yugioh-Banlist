@@ -1,0 +1,76 @@
+format O
+
+# OCG-Exclusive Era
+update 1999-00
+update 1999-07
+update 2000-02
+update 2000-05
+update 2000-07
+update 2000-08
+update 2000-11
+
+update 2001-01
+update 2001-05
+
+# TCG Era
+update 2002-01
+update 2002-05
+
+update 2003-01
+update 2003-04
+update 2003-07
+update 2003-10
+
+update 2004-03
+update 2004-09
+
+update 2005-03
+update 2005-09
+
+update 2006-03
+update 2006-09
+
+update 2007-03
+update 2007-09
+
+update 2008-03
+update 2008-09
+
+update 2009-03
+update 2009-09
+
+update 2010-03
+update 2010-09
+
+update 2011-03
+update 2011-09
+
+update 2012-03
+update 2012-09
+
+# OCG-TCG Divergence
+update 2013-03
+update 2013-09
+
+update 2014-02
+update 2014-04
+update 2014-07
+update 2014-10
+
+update 2015-01
+update 2015-04
+update 2015-07
+update 2015-10
+
+update 2016-01
+update 2016-04
+update 2016-07
+update 2016-10
+
+update 2017-01
+update 2017-04
+update 2017-07
+update 2017-10
+
+update 2018-01
+update 2018-04

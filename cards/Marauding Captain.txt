@@ -1,0 +1,6 @@
+card "Marauding Captain" {
+	release ocg 
+	release tcg 
+	type 
+}
+

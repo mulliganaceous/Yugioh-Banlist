@@ -1,0 +1,6 @@
+card "Call of the Haunted" {
+	release ocg 
+	release tcg 
+	type 
+}
+

@@ -1,0 +1,6 @@
+card "True King Lithosagym, the Disaster" {
+	release ocg 
+	release tcg 
+	type 
+}
+

@@ -1,0 +1,6 @@
+card "Performage Damage Juggler" {
+	release ocg 
+	release tcg 
+	type 
+}
+

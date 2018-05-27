@@ -1,0 +1,6 @@
+card "Predaplant Ophrys Scorpio" {
+	release ocg 
+	release tcg 
+	type 
+}
+

@@ -1,0 +1,24 @@
+format O
+year 2002-05
+
+#LIST
+limit "Exiled Force"
+limit "Injection Fairy Lily"
+limit "Makyura the Destructor"
+limit "Morphing Jar"
+limit "Slate Warrior"
+limit "Twin-Headed Behemoth"
+limit "Witch of the Black Forest"
+
+limit "Card Destruction"
+limit "Delinquent Duo"
+limit "Heavy Storm"
+limit "Premature Burial"
+limit "Swords of Revealing Light"
+limit "Upstart Goblin"
+limit "Exchange of the Spirit"
+limit "Reckless Greed"
+
+semilimit "Guardian Sphinx"
+semilimit "Marauding Captain"
+semilimit "Reinforcement of the Army"

@@ -1,0 +1,6 @@
+card "Reinforcement of the Army" {
+	release ocg 
+	release tcg 
+	type 
+}
+

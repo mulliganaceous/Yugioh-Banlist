@@ -1,0 +1,6 @@
+card "Tragoedia" {
+	release ocg 
+	release tcg 
+	type 
+}
+

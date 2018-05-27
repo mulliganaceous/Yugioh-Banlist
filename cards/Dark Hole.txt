@@ -1,0 +1,6 @@
+card "Dark Hole" {
+	release ocg 
+	release tcg 
+	type 
+}
+

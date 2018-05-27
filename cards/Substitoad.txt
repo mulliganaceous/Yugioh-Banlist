@@ -1,0 +1,6 @@
+card "Substitoad" {
+	release ocg 
+	release tcg 
+	type 
+}
+

@@ -1,0 +1,6 @@
+card "Wind-Up Carrier Zenmaity" {
+	release ocg 
+	release tcg 
+	type 
+}
+

@@ -1,0 +1,6 @@
+card "Preparation of Rites" {
+	release ocg 
+	release tcg 
+	type 
+}
+

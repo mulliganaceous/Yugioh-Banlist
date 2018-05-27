@@ -1,0 +1,6 @@
+card "Kozmo Dark Destroyer" {
+	release ocg 
+	release tcg 
+	type 
+}
+

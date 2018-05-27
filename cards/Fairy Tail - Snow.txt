@@ -1,0 +1,6 @@
+card "Fairy Tail - Snow" {
+	release ocg 
+	release tcg 
+	type 
+}
+

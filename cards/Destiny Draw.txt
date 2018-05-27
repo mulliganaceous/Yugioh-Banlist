@@ -1,0 +1,6 @@
+card "Destiny Draw" {
+	release ocg 
+	release tcg 
+	type 
+}
+

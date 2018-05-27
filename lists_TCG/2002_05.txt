@@ -1,0 +1,18 @@
+format T
+year 2002-05
+
+#LISTS
+limit "Exodia the Forbidden One"
+limit "Left Arm of the Forbidden One"
+limit "Left Leg of the Forbidden One"
+limit "Right Arm of the Forbidden One"
+limit "Right Leg of the Forbidden One"
+
+limit "Change of Heart"
+limit "Dark Hole"
+limit "Monster Reborn"
+limit "Pot of Greed"
+limit "Raigeki"
+
+semilimit "Card Destruction"
+semilimit "Swords of Revealing Light"

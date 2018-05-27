@@ -1,0 +1,6 @@
+card "Morphing Jar" {
+	release ocg 
+	release tcg 
+	type 
+}
+

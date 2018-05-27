@@ -1,0 +1,6 @@
+card "Ultimate Offering" {
+	release ocg 
+	release tcg 
+	type 
+}
+

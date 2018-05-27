@@ -1,0 +1,6 @@
+card "Dante, Traveler of the Burning Abyss" {
+	release ocg 
+	release tcg 
+	type 
+}
+

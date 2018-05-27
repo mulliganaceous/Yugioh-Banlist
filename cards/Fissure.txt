@@ -1,0 +1,6 @@
+card "Fissure" {
+	release ocg 
+	release tcg 
+	type 
+}
+

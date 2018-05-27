@@ -1,0 +1,6 @@
+card "Dark Strike Fighter" {
+	release ocg 
+	release tcg 
+	type 
+}
+

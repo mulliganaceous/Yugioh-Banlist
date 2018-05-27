@@ -1,0 +1,6 @@
+card "Evilswarm Exciton Knight" {
+	release ocg 
+	release tcg 
+	type 
+}
+

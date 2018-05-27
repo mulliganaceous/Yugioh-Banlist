@@ -1,0 +1,6 @@
+card "Chain Strike" {
+	release ocg 
+	release tcg 
+	type 
+}
+

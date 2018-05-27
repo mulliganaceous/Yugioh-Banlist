@@ -1,0 +1,6 @@
+card "Elder Entity Norden" {
+	release ocg 
+	release tcg 
+	type 
+}
+

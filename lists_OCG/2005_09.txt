@@ -1,0 +1,24 @@
+format O
+year 2005-09
+
+#LIST
+forbid "Black Luster Soldier - Envoy of the Beginning"
+forbid "Sinister Serpent"
+forbid "Delinquent Duo"
+forbid "Graceful Charity"
+forbid "Mirror Force"
+forbid "Ring of Destruction"
+
+limit "Night Assailant"
+limit "Thousand-Eyes Restrict"
+limit "Tsukuyomi"
+limit "Book of Moon"
+limit "Confiscation"
+limit "Dark Hole"
+limit "Limiter Removal"
+limit "Metamorphosis"
+limit "Scapegoat"
+
+unlimit "Dark Scorpion - Chick the Yellow"
+unlimit "Marauding Captain"
+unlimit "Vampire Lord"

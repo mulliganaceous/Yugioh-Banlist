@@ -1,0 +1,6 @@
+card "Majespecter Unicorn - Kirin" {
+	release ocg 
+	release tcg 
+	type 
+}
+

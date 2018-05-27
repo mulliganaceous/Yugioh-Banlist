@@ -1,0 +1,41 @@
+format O
+year 2016-04
+
+#LIST
+forbid "Lavalval Chain"
+forbid "Performapal Monkeyboard"
+forbid "Life Equalizer"
+
+nerf limit "Sangan"
+
+limit "Dante, Traveler of the Burning Abyss"
+limit "Ignister Prominence, the Blasting Dracoslayer"
+limit "Luster Pendulum, the Dracoslayer"
+limit "Performapal Pendulum Sorcerer"
+limit "Performapal Skullcrobat Joker"
+limit "Scarm, Malebranche of the Burning Abyss"
+limit "Thousand-Eyes Restrict"
+limit "Tour Guide From the Underworld"
+
+limit "Domain of the True Monarchs"
+limit "Draco Face-Off"
+limit "Emergency Teleport"
+limit "Mask Change II"
+limit "Monster Gate"
+limit "Pantheism of the Monarchs"
+limit "Pendulum Call"
+limit "Reasoning"
+limit "Wavering Eyes"
+
+semilimit "Super Rejuvenation"
+
+unlimit "Destiny HERO - Malicious"
+unlimit "Glow-Up Bulb"
+unlimit "Kuribandit"
+unlimit "Mermail Abyssteus"
+unlimit "Allure of Darkness"
+unlimit "Book of Moon"
+unlimit "Dragon Shrine"
+unlimit "Gold Sarcophagus"
+unlimit "Mind Control"
+unlimit "Crush Card Virus"

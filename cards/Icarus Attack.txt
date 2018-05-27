@@ -1,0 +1,6 @@
+card "Icarus Attack" {
+	release ocg 
+	release tcg 
+	type 
+}
+

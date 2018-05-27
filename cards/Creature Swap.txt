@@ -1,0 +1,6 @@
+card "Creature Swap" {
+	release ocg 
+	release tcg 
+	type 
+}
+

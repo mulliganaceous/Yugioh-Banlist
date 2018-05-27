@@ -1,0 +1,6 @@
+card "Super Polymerization" {
+	release ocg 
+	release tcg 
+	type 
+}
+

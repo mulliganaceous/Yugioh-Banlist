@@ -1,0 +1,6 @@
+card "Ignister Prominence, the Blasting Dracoslayer" {
+	release ocg 
+	release tcg 
+	type 
+}
+

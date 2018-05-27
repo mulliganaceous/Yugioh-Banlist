@@ -1,0 +1,6 @@
+card "Card of Safe Return" {
+	release ocg 
+	release tcg 
+	type 
+}
+

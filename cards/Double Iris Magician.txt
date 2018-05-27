@@ -1,0 +1,6 @@
+card "Double Iris Magician" {
+	release ocg 
+	release tcg 
+	type 
+}
+

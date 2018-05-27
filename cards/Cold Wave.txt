@@ -1,0 +1,6 @@
+card "Cold Wave" {
+	release ocg 
+	release tcg 
+	type 
+}
+

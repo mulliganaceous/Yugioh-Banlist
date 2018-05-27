@@ -1,0 +1,6 @@
+card "Spellbook of Judgment" {
+	release ocg 
+	release tcg 
+	type 
+}
+

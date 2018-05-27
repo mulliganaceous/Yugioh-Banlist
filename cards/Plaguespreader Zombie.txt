@@ -1,0 +1,6 @@
+card "Plaguespreader Zombie" {
+	release ocg 
+	release tcg 
+	type 
+}
+

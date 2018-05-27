@@ -1,0 +1,6 @@
+card "Debris Dragon" {
+	release ocg 
+	release tcg 
+	type 
+}
+

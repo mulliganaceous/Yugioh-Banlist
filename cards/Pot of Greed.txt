@@ -1,0 +1,6 @@
+card "Pot of Greed" {
+	release ocg 
+	release tcg 
+	type 
+}
+

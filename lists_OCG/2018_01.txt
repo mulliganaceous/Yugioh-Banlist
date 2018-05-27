@@ -1,0 +1,27 @@
+format O
+year 2018-01
+
+#LIST
+forbid "Ancient Fairy Dragon"
+
+limit "Blackwing - Steam the Cloak"
+limit "Dandylion"
+limit "Firewall Dragon"
+limit "SPYRAL GEAR - Drone"
+limit "SPYRAL Quik-Fix"
+limit "SPYRAL Resort"
+
+semilimit "Grinder Golem"
+semilimit "Lonefire Blossom"
+semilimit "Mathematician"
+semilimit "Shurit, Strategist of the Nekroz"
+semilimit "Tribe-Infecting Virus"
+semilimit "Pantheism of the Monarchs"
+semilimit "Scapegoat"
+semilimit "Set Rotation"
+semilimit "Solemn Warning"
+
+unlimit "Atlantean Dragoons"
+unlimit "Maxx \"C\""
+unlimit "Dark Hole"
+unlimit "Future Fusion"

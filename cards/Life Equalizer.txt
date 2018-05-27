@@ -1,0 +1,6 @@
+card "Life Equalizer" {
+	release ocg 
+	release tcg 
+	type 
+}
+

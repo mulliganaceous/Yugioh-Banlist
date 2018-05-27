@@ -1,0 +1,6 @@
+card "Lightning, Dragon Ruler of Drafts" {
+	release ocg 
+	release tcg 
+	type 
+}
+

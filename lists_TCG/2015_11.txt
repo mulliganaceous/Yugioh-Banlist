@@ -1,0 +1,25 @@
+format T
+year 2015-11
+
+#LIST
+forbid "Apoqliphort Towers"
+forbid "El Shaddoll Construct"
+forbid "Evilswarm Exciton Knight"
+forbid "Shurit, Strategist of the Nekroz"
+nerf forbid "Dark Magician of Chaos"
+
+limit "Graff, Malebranche of the Burning Abyss"
+limit "Mathematician"
+limit "Nekroz of Brionac"
+limit "Nekroz of Unicore"
+limit "Qliphort Scout"
+limit "Ritual Beast Ulti-Cannahawk"
+limit "El Shaddoll Fusion"
+limit "Reinforcement of the Army"
+
+semilimit "Cir, Malebranche of the Burning Abyss"
+
+unlimit "Chaos Sorcerer"
+unlimit "Legendary Six Samurai - Shi En"
+unlimit "Spellbook of Fate"
+unlimit "Geargiagear"

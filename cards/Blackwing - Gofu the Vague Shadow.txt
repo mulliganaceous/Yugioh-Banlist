@@ -1,0 +1,6 @@
+card "Blackwing - Gofu the Vague Shadow" {
+	release ocg 2016 04 09
+	release tcg 2016 08 04
+	type Monster Effect
+}
+

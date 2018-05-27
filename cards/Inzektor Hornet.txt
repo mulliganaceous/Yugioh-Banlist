@@ -1,0 +1,6 @@
+card "Inzektor Hornet" {
+	release ocg 
+	release tcg 
+	type 
+}
+

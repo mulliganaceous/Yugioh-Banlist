@@ -1,0 +1,6 @@
+card "Crush Card Virus" {
+	release ocg 
+	release tcg 
+	type 
+}
+

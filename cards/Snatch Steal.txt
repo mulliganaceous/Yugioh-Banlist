@@ -1,0 +1,6 @@
+card "Snatch Steal" {
+	release ocg 
+	release tcg 
+	type 
+}
+

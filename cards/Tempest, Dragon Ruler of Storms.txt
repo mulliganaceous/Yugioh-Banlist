@@ -1,0 +1,6 @@
+card "Tempest, Dragon Ruler of Storms" {
+	release ocg 
+	release tcg 
+	type 
+}
+

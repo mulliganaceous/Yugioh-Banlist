@@ -1,0 +1,6 @@
+card "Babycerasaurus" {
+	release ocg 2006 05 18
+	release tcg 2006 08 16
+	type Monster Effect
+}
+

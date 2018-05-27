@@ -1,0 +1,6 @@
+card "Performapal Skullcrobat Joker" {
+	release ocg 
+	release tcg 
+	type 
+}
+

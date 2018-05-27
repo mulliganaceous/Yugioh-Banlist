@@ -1,0 +1,6 @@
+card "Wavering Eyes" {
+	release ocg 
+	release tcg 
+	type 
+}
+

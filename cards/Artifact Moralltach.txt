@@ -1,0 +1,6 @@
+card "Artifact Moralltach" {
+	release ocg 2014 02 15
+	release tcg 2014 05 16
+	type Monster Effect
+}
+

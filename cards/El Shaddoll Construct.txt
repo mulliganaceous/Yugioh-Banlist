@@ -1,0 +1,6 @@
+card "El Shaddoll Construct" {
+	release ocg 
+	release tcg 
+	type 
+}
+

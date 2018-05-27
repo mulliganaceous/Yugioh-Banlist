@@ -1,0 +1,6 @@
+card "Ehther the Heavenly Monarch" {
+	release ocg 
+	release tcg 
+	type 
+}
+

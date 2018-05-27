@@ -1,0 +1,809 @@
+<div style="font-size:8pt; font-family:monospace">
+{| class="wikitable" style="width: 400px; line-height: 10pt"
+|-
+! rowspan=2 scope="col" style="width: 160px"| Card
+! colspan=2 scope="col" style="width:120px"|2012
+! colspan=2 scope="col" style="width:120px"|2013
+|-
+! colspan=1 scope="col"|MAR
+! colspan=1 scope="col"|SEP
+! colspan=1 scope="col"|MAR
+! colspan=1 scope="col"|SEP
+|-
+| scope"row" | [[A Hero Lives]] || {{Did not exist}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Unlimited}}
+|-
+| scope"row" | [[ABC-Dragon Buster]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Abyss Soldier]] || {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Abyss-sphere]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Advanced Ritual Art]] || {{Limited}}|| {{Limited}}|| {{Semi-limited}}|| {{Semi-limited}}
+|-
+| scope"row" | [[Aleister the Invoker]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Allure of Darkness]] || {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Ancient Fairy Dragon]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Apoqliphort Towers]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Apprentice Magician]] || {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Archlord Kristya]] || {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}
+|-
+| scope"row" | [[Armageddon Knight]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Artifact Moralltach]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Ash Blossom & Joyous Spring]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Atlantean Dragoons]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Limited}}
+|-
+| scope"row" | [[Babycerasaurus]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Backup Soldier]] || {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Beatrice, Lady of the Eternal]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Black Luster Soldier - Envoy of the Beginning]] || {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Black Rose Dragon]] || {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Black Whirlwind]] || {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Blackwing - Gale the Whirlwind]] || {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Blackwing - Gofu the Vague Shadow]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Blackwing - Kalut the Moon Shadow]] || {{Limited}}|| {{Semi-limited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Blackwing - Steam the Cloak]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Blaster, Dragon Ruler of Infernos]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Blaze Fenix, the Burning Bombardment Bird]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Book of Moon]] || {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Book of Taiyou]] || {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Bottomless Trap Hole]] || {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Limited}}
+|-
+| scope"row" | [[Brain Control]] || {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}
+|-
+| scope"row" | [[Breaker the Magical Warrior]] || {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Brionac, Dragon of the Ice Barrier]] || {{Limited}}|| {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}
+|-
+| scope"row" | [[Brotherhood of the Fire Fist - Rooster]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Brotherhood of the Fire Fist - Spirit]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Limited}}
+|-
+| scope"row" | [[Burial from a Different Dimension]] || {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Burner, Dragon Ruler of Sparks]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Forbidden}}
+|-
+| scope"row" | [[Butterfly Dagger - Elma]] || {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}
+|-
+| scope"row" | [[Call of the Haunted]] || {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Card Destruction]] || {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Forbidden}}
+|-
+| scope"row" | [[Card Trooper]] || {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}
+|-
+| scope"row" | [[Card of Demise]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Card of Safe Return]] || {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}
+|-
+| scope"row" | [[Ceasefire]] || {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Chain Strike]] || {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}
+|-
+| scope"row" | [[Change of Heart]] || {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}
+|-
+| scope"row" | [[Chaos Emperor Dragon - Envoy of the End]] || {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}
+|-
+| scope"row" | [[Chaos Sorcerer]] || {{Unlimited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Charge of the Light Brigade]] || {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Chicken Game]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Chronomaly Nebra Disk]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Cir, Malebranche of the Burning Abyss]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Coach Soldier Wolfbark]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Cold Wave]] || {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}
+|-
+| scope"row" | [[Compulsory Evacuation Device]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Limited}}
+|-
+| scope"row" | [[Confiscation]] || {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}
+|-
+| scope"row" | [[Constellar Ptolemy M7]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Limited}}
+|-
+| scope"row" | [[Creature Swap]] || {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Crush Card Virus]] || {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}
+|-
+| scope"row" | [[Cyber Dragon]] || {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Cyber Jar]] || {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}
+|-
+| scope"row" | [[Cyber-Stein]] || {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}
+|-
+| scope"row" | [[D.D. Assailant]] || {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[D.D. Warrior Lady]] || {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+! rowspan=2 scope="col" style="width: 160px"| Card
+! colspan=2 scope="col" style="width:120px"|2012
+! colspan=2 scope="col" style="width:120px"|2013
+|-
+! colspan=1 scope="col"|MAR
+! colspan=1 scope="col"|SEP
+! colspan=1 scope="col"|MAR
+! colspan=1 scope="col"|SEP
+|-
+| scope"row" | [[D/D Lamia]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[D/D Swirl Slime]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Daigusto Emeral]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Dandylion]] || {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Dante, Traveler of the Burning Abyss]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Dark Armed Dragon]] || {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Dark Hole]] || {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Dark Magician of Chaos]] || {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}
+|-
+| scope"row" | [[Dark Scorpion - Chick the Yellow]] || {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Dark Strike Fighter]] || {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}
+|-
+| scope"row" | [[Debris Dragon]] || {{Limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}
+|-
+| scope"row" | [[Deck Devastation Virus]] || {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Deep Sea Diva]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Limited}}
+|-
+| scope"row" | [[Delinquent Duo]] || {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}
+|-
+| scope"row" | [[Demise, King of Armageddon]] || {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Denglong, First of the Yang Zing]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Destiny Draw]] || {{Semi-limited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Destiny HERO - Disk Commander]] || {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}
+|-
+| scope"row" | [[Destiny HERO - Malicious]] || {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Dewloren, Tiger King of the Ice Barrier]] || {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Limited}}
+|-
+| scope"row" | [[Dimension Fusion]] || {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}
+|-
+| scope"row" | [[Dimensional Fissure]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Limited}}
+|-
+| scope"row" | [[Dimensional Prison]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Semi-limited}}
+|-
+| scope"row" | [[Dinomight Knight, the True Dracofighter]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Divine Wind of Mist Valley]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Djinn Releaser of Rituals]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Domain of the True Monarchs]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Double Iris Magician]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Draco Face-Off]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Dragon Ravine]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Dragon Shrine]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Dragonic Diagram]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Drop Off]] || {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[E - Emergency Call]] || {{Did not exist}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Ehther the Heavenly Monarch]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[El Shaddoll Construct]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[El Shaddoll Fusion]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[El Shaddoll Winda]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Elder Entity Norden]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Elemental HERO Bubbleman]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Elemental HERO Shadow Mist]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Elemental HERO Stratos]] || {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Forbidden}}
+|-
+| scope"row" | [[Emergency Provisions]] || {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Emergency Teleport]] || {{Semi-limited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Eradicator Epidemic Virus]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Limited}}
+|-
+| scope"row" | [[Evigishki Gustkraken]] || {{Did not exist}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Evigishki Mind Augus]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Limited}}
+|-
+| scope"row" | [[Evilswarm Exciton Knight]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Evilswarm Ophion]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Exchange of the Spirit]] || {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}
+|-
+| scope"row" | [[Exiled Force]] || {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Exodia the Forbidden One]] || {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Fairy Tail - Snow]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Fiber Jar]] || {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}
+|-
+| scope"row" | [[Final Countdown]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Fire Formation - Tenki]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Semi-limited}}
+|-
+| scope"row" | [[Firewall Dragon]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Fishborg Blaster]] || {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}
+|-
+| scope"row" | [[Fissure]] || {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Foolish Burial]] || {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Formula Synchron]] || {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Fossil Dig]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Future Fusion]] || {{Limited}}|| {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}
+|-
+| scope"row" | [[Gateway of the Six]] || {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Forbidden}}
+|-
+! rowspan=2 scope="col" style="width: 160px"| Card
+! colspan=2 scope="col" style="width:120px"|2012
+! colspan=2 scope="col" style="width:120px"|2013
+|-
+! colspan=1 scope="col"|MAR
+! colspan=1 scope="col"|SEP
+! colspan=1 scope="col"|MAR
+! colspan=1 scope="col"|SEP
+|-
+| scope"row" | [[Geargiagear]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Genex Ally Birdman]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Limited}}
+|-
+| scope"row" | [[Giant Trunade]] || {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}
+|-
+| scope"row" | [[Gladiator Beast Bestiari]] || {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Glow-Up Bulb]] || {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}
+|-
+| scope"row" | [[Goblin Zombie]] || {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Gold Sarcophagus]] || {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Limited}}
+|-
+| scope"row" | [[Good Goblin Housekeeping]] || {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Gorz the Emissary of Darkness]] || {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Goyo Guardian]] || {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}
+|-
+| scope"row" | [[Graceful Charity]] || {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}
+|-
+| scope"row" | [[Graff, Malebranche of the Burning Abyss]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Grandsoil the Elemental Lord]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Gravekeeper's Servant]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Gravity Bind]] || {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Green Baboon, Defender of the Forest]] || {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Green Gadget]] || {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Grinder Golem]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Guardian Sphinx]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Harpie's Feather Duster]] || {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}
+|-
+| scope"row" | [[Heavy Storm]] || {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Forbidden}}
+|-
+| scope"row" | [[Hieratic Seal of Convocation]] || {{Did not exist}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Honest]] || {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Icarus Attack]] || {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Ignis Heat, the True Dracowarrior]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Ignister Prominence, the Blasting Dracoslayer]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Imperial Order]] || {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}
+|-
+| scope"row" | [[Infernity Archfiend]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Infernity Barrier]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Infernity Launcher]] || {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Injection Fairy Lily]] || {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Instant Fusion]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Interrupted Kaiju Slumber]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Invoked Mechaba]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Inzektor Dragonfly]] || {{Did not exist}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Inzektor Hornet]] || {{Did not exist}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Jinzo]] || {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Judgment Dragon]] || {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Kaiser Colosseum]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Kozmo Dark Destroyer]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Kuribandit]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Last Turn]] || {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}
+|-
+| scope"row" | [[Last Will]] || {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}
+|-
+| scope"row" | [[Lavalval Chain]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Left Arm of the Forbidden One]] || {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Left Leg of the Forbidden One]] || {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Legendary Six Samurai - Shi En]] || {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Level Eater]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Level Limit - Area B]] || {{Semi-limited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Life Equalizer]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Light and Darkness Dragon]] || {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Lightning Vortex]] || {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Lightning, Dragon Ruler of Drafts]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Forbidden}}
+|-
+| scope"row" | [[Limiter Removal]] || {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Lonefire Blossom]] || {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Lumina, Lightsworn Summoner]] || {{Semi-limited}}|| {{Semi-limited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Luster Pendulum, the Dracoslayer]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Macro Cosmos]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Limited}}
+|-
+| scope"row" | [[Mage Power]] || {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Magic Cylinder]] || {{Semi-limited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Magical Explosion]] || {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Magical Scientist]] || {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}
+|-
+| scope"row" | [[Magical Stone Excavation]] || {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}
+|-
+| scope"row" | [[Magician of Faith]] || {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}
+|-
+! rowspan=2 scope="col" style="width: 160px"| Card
+! colspan=2 scope="col" style="width:120px"|2012
+! colspan=2 scope="col" style="width:120px"|2013
+|-
+! colspan=1 scope="col"|MAR
+! colspan=1 scope="col"|SEP
+! colspan=1 scope="col"|MAR
+! colspan=1 scope="col"|SEP
+|-
+| scope"row" | [[Majespecter Unicorn - Kirin]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Makyura the Destructor]] || {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}
+|-
+| scope"row" | [[Manju of the Ten Thousand Hands]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Manticore of Darkness]] || {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Marauding Captain]] || {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Marshmallon]] || {{Semi-limited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Mask Change II]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Mask of Darkness]] || {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Mass Driver]] || {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}
+|-
+| scope"row" | [[Master Peace, the True Dracoslaying King]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Mathematician]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Maxx "C"]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Megamorph]] || {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Mermail Abyssgunde]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Mermail Abyssteus]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Metamorphosis]] || {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}
+|-
+| scope"row" | [[Mezuki]] || {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Semi-limited}}
+|-
+| scope"row" | [[Mind Control]] || {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Mind Crush]] || {{Semi-limited}}|| {{Semi-limited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Mind Master]] || {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}
+|-
+| scope"row" | [[Mirage of Nightmare]] || {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}
+|-
+| scope"row" | [[Mirror Force]] || {{Limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}
+|-
+| scope"row" | [[Miscellaneousaurus]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Monster Gate]] || {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Monster Reborn]] || {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Forbidden}}
+|-
+| scope"row" | [[Morphing Jar]] || {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Morphing Jar #2]] || {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Mystical Space Typhoon]] || {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Necro Gardna]] || {{Semi-limited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Necroface]] || {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Needlebug Nest]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Nekroz Cycle]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Nekroz of Brionac]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Nekroz of Unicore]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Neo-Spacian Grand Mole]] || {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Night Assailant]] || {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Nobleman of Crossout]] || {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Number 11: Big Eye]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Number 16: Shock Master]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Forbidden}}
+|-
+| scope"row" | [[Ojama Trio]] || {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}
+|-
+| scope"row" | [[One Day of Peace]] || {{Did not exist}}|| {{Did not exist}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[One for One]] || {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Overload Fusion]] || {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[PSY-Framelord Omega]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Painful Choice]] || {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}
+|-
+| scope"row" | [[Pantheism of the Monarchs]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Pendulum Call]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Performage Damage Juggler]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Performage Plushfire]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Performapal Monkeyboard]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Performapal Pendulum Sorcerer]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Performapal Skullcrobat Joker]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Phantom of Chaos]] || {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Phoenixian Cluster Amaryllis]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Plaguespreader Zombie]] || {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Semi-limited}}
+|-
+| scope"row" | [[Pot of Avarice]] || {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Forbidden}}
+|-
+| scope"row" | [[Pot of Duality]] || {{Did not exist}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Pot of Greed]] || {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}
+|-
+| scope"row" | [[Predaplant Ophrys Scorpio]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Premature Burial]] || {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}
+|-
+| scope"row" | [[Preparation of Rites]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Primal Seed]] || {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Protector of the Sanctuary]] || {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Qliphort Scout]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+! rowspan=2 scope="col" style="width: 160px"| Card
+! colspan=2 scope="col" style="width:120px"|2012
+! colspan=2 scope="col" style="width:120px"|2013
+|-
+! colspan=1 scope="col"|MAR
+! colspan=1 scope="col"|SEP
+! colspan=1 scope="col"|MAR
+! colspan=1 scope="col"|SEP
+|-
+| scope"row" | [[Raigeki]] || {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}
+|-
+| scope"row" | [[Raiza the Storm Monarch]] || {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Reactan, Dragon Ruler of Pebbles]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Forbidden}}
+|-
+| scope"row" | [[Reasoning]] || {{Limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}
+|-
+| scope"row" | [[Reborn Tengu]] || {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}
+|-
+| scope"row" | [[Reckless Greed]] || {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Red Gadget]] || {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Red-Eyes Darkness Metal Dragon]] || {{Did not exist}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Redox, Dragon Ruler of Boulders]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Reflect Bounder]] || {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Reinforcement of the Army]] || {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Rekindling]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Rescue Cat]] || {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}
+|-
+| scope"row" | [[Rescue Rabbit]] || {{Did not exist}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Limited}}
+|-
+| scope"row" | [[Return from the Different Dimension]] || {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Right Arm of the Forbidden One]] || {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Right Leg of the Forbidden One]] || {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Ring of Destruction]] || {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}
+|-
+| scope"row" | [[Riryoku]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Ritual Beast Ulti-Cannahawk]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Royal Decree]] || {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Royal Oppression]] || {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}
+|-
+| scope"row" | [[Royal Tribute]] || {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Limited}}
+|-
+| scope"row" | [[SPYRAL GEAR - Drone]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[SPYRAL Quik-Fix]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[SPYRAL Resort]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Sacred Phoenix of Nephthys]] || {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Sacred Sword of Seven Stars]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Sangan]] || {{Limited}}|| {{Limited}}|| {{Forbidden}}|| {{Forbidden}}
+|-
+| scope"row" | [[Saqlifice]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Scapegoat]] || {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Scarm, Malebranche of the Burning Abyss]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Self-Destruct Button]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Senju of the Thousand Hands]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Set Rotation]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Shien's Smoke Signal]] || {{Semi-limited}}|| {{Semi-limited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Shurit, Strategist of the Nekroz]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Sinister Serpent]] || {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}
+|-
+| scope"row" | [[Sinister Shadow Games]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Sixth Sense]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Limited}}
+|-
+| scope"row" | [[Skill Drain]] || {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Slate Warrior]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Smashing Ground]] || {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Snatch Steal]] || {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}
+|-
+| scope"row" | [[Snipe Hunter]] || {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Solemn Judgment]] || {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Forbidden}}
+|-
+| scope"row" | [[Solemn Strike]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Solemn Warning]] || {{Semi-limited}}|| {{Semi-limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Soul Charge]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Soul Drain]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Limited}}
+|-
+| scope"row" | [[Souleating Oviraptor]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Speedroid Terrortop]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Spellbook of Fate]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Spellbook of Judgment]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Forbidden}}
+|-
+| scope"row" | [[Spellbook of Knowledge]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Spellbook of Secrets]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Spirit Reaper]] || {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Spore]] || {{Forbidden}}|| {{Limited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Star Seraph Sovereignty]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Stream, Dragon Ruler of Droplets]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Forbidden}}
+|-
+| scope"row" | [[Substitoad]] || {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}
+|-
+| scope"row" | [[Summoner Monk]] || {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}
+|-
+| scope"row" | [[Super Polymerization]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Super Rejuvenation]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Forbidden}}
+|-
+! rowspan=2 scope="col" style="width: 160px"| Card
+! colspan=2 scope="col" style="width:120px"|2012
+! colspan=2 scope="col" style="width:120px"|2013
+|-
+! colspan=1 scope="col"|MAR
+! colspan=1 scope="col"|SEP
+! colspan=1 scope="col"|MAR
+! colspan=1 scope="col"|SEP
+|-
+| scope"row" | [[Supreme King Dragon Darkwurm]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Swords of Revealing Light]] || {{Semi-limited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Symbol of Heritage]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[T.G. Hyper Librarian]] || {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[T.G. Striker]] || {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Semi-limited}}
+|-
+| scope"row" | [[Tellarknight Ptolemaeus]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Tempest, Dragon Ruler of Storms]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Temple of the Kings]] || {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}
+|-
+| scope"row" | [[Terraforming]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[That Grass Looks Greener]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[The Agent of Mystery - Earth]] || {{Limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Unlimited}}
+|-
+| scope"row" | [[The Forceful Sentry]] || {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}
+|-
+| scope"row" | [[The Monarchs Stormforth]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[The Transmigration Prophecy]] || {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[The Tyrant Neptune]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Thousand-Eyes Restrict]] || {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}
+|-
+| scope"row" | [[Thunder King Rai-Oh]] || {{Did not exist}}|| {{Did not exist}}|| {{Semi-limited}}|| {{Limited}}
+|-
+| scope"row" | [[Tidal, Dragon Ruler of Waterfalls]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Time Seal]] || {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}
+|-
+| scope"row" | [[Toadally Awesome]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Torrential Tribute]] || {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Limited}}
+|-
+| scope"row" | [[Tour Guide From the Underworld]] || {{Did not exist}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}
+|-
+| scope"row" | [[Tragoedia]] || {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}|| {{Semi-limited}}
+|-
+| scope"row" | [[Trap Dustshoot]] || {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}
+|-
+| scope"row" | [[Trap Hole]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Treeborn Frog]] || {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Tribe-Infecting Virus]] || {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}
+|-
+| scope"row" | [[Trickstar Reincarnation]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Trishula, Dragon of the Ice Barrier]] || {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}
+|-
+| scope"row" | [[True Draco Heritage]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[True King Lithosagym, the Disaster]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[True King's Return]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Tsukuyomi]] || {{Forbidden}}|| {{Limited}}|| {{Semi-limited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Twin-Headed Behemoth]] || {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Ultimate Offering]] || {{Semi-limited}}|| {{Limited}}|| {{Limited}}|| {{Forbidden}}
+|-
+| scope"row" | [[Union Hangar]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[United We Stand]] || {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Upstart Goblin]] || {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Vampire Lord]] || {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Vanity's Emptiness]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Victory Dragon]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Wall of Revealing Light]] || {{Limited}}|| {{Limited}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Wavering Eyes]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Wind-Up Carrier Zenmaity]] || {{Did not exist}}|| {{Limited}}|| {{Forbidden}}|| {{Forbidden}}
+|-
+| scope"row" | [[Wind-Up Hunter]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Wind-Up Magician]] || {{Did not exist}}|| {{Did not exist}}|| {{Limited}}|| {{Limited}}
+|-
+| scope"row" | [[Wind-Up Shark]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Windwitch - Ice Bell]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Wisdom-Eye Magician]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Witch of the Black Forest]] || {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}
+|-
+| scope"row" | [[Yata-Garasu]] || {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}|| {{Forbidden}}
+|-
+| scope"row" | [[Yellow Gadget]] || {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}|| {{Unlimited}}
+|-
+| scope"row" | [[Zoodiac Barrage]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Zoodiac Broadbull]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Zoodiac Drident]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|-
+| scope"row" | [[Zoodiac Ratpier]] || {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}|| {{Did not exist}}
+|}</div>

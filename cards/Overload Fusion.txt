@@ -1,0 +1,6 @@
+card "Overload Fusion" {
+	release ocg 
+	release tcg 
+	type 
+}
+

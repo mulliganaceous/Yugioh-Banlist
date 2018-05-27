@@ -1,0 +1,6 @@
+card "Apprentice Magician" {
+	release ocg 2002 09 19
+	release tcg 2003 10 10
+	type Monster Effect
+}
+

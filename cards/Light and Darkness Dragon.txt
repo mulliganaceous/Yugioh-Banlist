@@ -1,0 +1,6 @@
+card "Light and Darkness Dragon" {
+	release ocg 
+	release tcg 
+	type 
+}
+

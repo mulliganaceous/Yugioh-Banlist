@@ -1,0 +1,6 @@
+card "Exchange of the Spirit" {
+	release ocg 
+	release tcg 
+	type 
+}
+

@@ -1,0 +1,38 @@
+format T
+year 2017-09
+
+#LIST
+forbid "Daigusto Emeral"
+forbid "Denglong, First of the Yang Zing"
+forbid "Dinomight Knight, the True Dracofighter"
+forbid "Grandsoil the Elemental Lord"
+forbid "True King Lithosagym, the Disaster"
+forbid "Zoodiac Broadbull"
+forbid "Zoodiac Drident"
+
+limit "Ignis Heat, the True Dracowarrior"
+limit "Miscellaneousaurus"
+limit "Zoodiac Ratpier"
+limit "Dark Hole"
+limit "Gateway of the Six"
+limit "Interrupted Kaiju Slumber"
+limit "True King's Return"
+
+semilimit "Black Luster Soldier - Envoy of the Beginning"
+semilimit "Brionac, Dragon of the Ice Barrier"
+semilimit "Luster Pendulum, the Dracoslayer"
+semilimit "T.G. Hyper Librarian"
+semilimit "Brain Control"
+semilimit "Burial from a Different Dimension"
+semilimit "El Shaddoll Fusion"
+semilimit "Preparation of Rites"
+
+unlimit "Debris Dragon"
+unlimit "Honest"
+unlimit "Rescue Cat"
+unlimit "Rescue Rabbit"
+unlimit "Summoner Monk"
+nerf unlimit "Witch of the Black Forest"
+unlimit "Charge of the Light Brigade"
+unlimit "Dragon Ravine"
+unlimit "Wavering Eyes"

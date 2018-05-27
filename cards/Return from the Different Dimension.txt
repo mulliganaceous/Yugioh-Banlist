@@ -1,0 +1,6 @@
+card "Return from the Different Dimension" {
+	release ocg 
+	release tcg 
+	type 
+}
+

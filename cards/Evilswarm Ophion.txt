@@ -1,0 +1,6 @@
+card "Evilswarm Ophion" {
+	release ocg 
+	release tcg 
+	type 
+}
+

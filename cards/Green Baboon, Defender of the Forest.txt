@@ -1,0 +1,6 @@
+card "Green Baboon, Defender of the Forest" {
+	release ocg 
+	release tcg 
+	type 
+}
+

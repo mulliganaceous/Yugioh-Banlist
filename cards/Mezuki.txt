@@ -1,0 +1,6 @@
+card "Mezuki" {
+	release ocg 
+	release tcg 
+	type 
+}
+

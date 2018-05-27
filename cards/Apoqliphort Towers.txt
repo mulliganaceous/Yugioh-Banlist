@@ -1,0 +1,6 @@
+card "Apoqliphort Towers" {
+	release ocg 2014 07 19
+	release tcg 2014 11 06
+	type Monster Effect
+}
+

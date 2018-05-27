@@ -1,0 +1,14 @@
+format O
+year 2004-03
+
+#LIST
+forbid "Cyber Jar"
+forbid "Fiber Jar"
+forbid "Injection Fairy Lily"
+forbid "Yata-Garasu"
+forbid "Change of Heart"
+forbid "Delinquent Duo"
+forbid "Harpie's Feather Duster"
+forbid "Raigeki"
+forbid "Painful Choice"
+forbid "Imperial Order"

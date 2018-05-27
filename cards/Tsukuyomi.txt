@@ -1,0 +1,6 @@
+card "Tsukuyomi" {
+	release ocg 
+	release tcg 
+	type 
+}
+

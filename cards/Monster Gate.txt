@@ -1,0 +1,6 @@
+card "Monster Gate" {
+	release ocg 
+	release tcg 
+	type 
+}
+

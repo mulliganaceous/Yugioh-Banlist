@@ -1,0 +1,6 @@
+card "Cyber-Stein" {
+	release ocg 
+	release tcg 
+	type 
+}
+

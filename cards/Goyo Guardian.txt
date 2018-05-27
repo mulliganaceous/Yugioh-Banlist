@@ -1,0 +1,6 @@
+card "Goyo Guardian" {
+	release ocg 
+	release tcg 
+	type 
+}
+

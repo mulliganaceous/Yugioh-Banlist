@@ -1,0 +1,6 @@
+card "Reflect Bounder" {
+	release ocg 
+	release tcg 
+	type 
+}
+

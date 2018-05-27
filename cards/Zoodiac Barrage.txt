@@ -1,0 +1,6 @@
+card "Zoodiac Barrage" {
+	release ocg 
+	release tcg 
+	type 
+}
+

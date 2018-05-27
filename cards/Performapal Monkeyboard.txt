@@ -1,0 +1,6 @@
+card "Performapal Monkeyboard" {
+	release ocg 
+	release tcg 
+	type 
+}
+

@@ -1,0 +1,6 @@
+card "Dark Scorpion - Chick the Yellow" {
+	release ocg 
+	release tcg 
+	type 
+}
+

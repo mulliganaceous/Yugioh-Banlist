@@ -1,0 +1,6 @@
+card "Solemn Strike" {
+	release ocg 
+	release tcg 
+	type 
+}
+

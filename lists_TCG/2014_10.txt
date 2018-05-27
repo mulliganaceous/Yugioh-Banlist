@@ -1,0 +1,19 @@
+format T
+year 2014-10
+
+#LIST
+limit "Glow-Up Bulb"
+limit "Infernity Archfiend"
+limit "Raigeki"
+limit "Soul Charge"
+limit "Super Polymerization"
+
+semilimit "Blackwing - Gale the Whirlwind"
+semilimit "Gorz the Emissary of Darkness"
+semilimit "Ceasefire"
+semilimit "The Transmigration Prophecy"
+
+unlimit "Coach Soldier Wolfbark"
+unlimit "Formula Synchron"
+unlimit "Magician of Faith"
+unlimit "Reinforcement of the Army"

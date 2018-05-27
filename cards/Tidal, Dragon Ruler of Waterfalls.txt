@@ -1,0 +1,6 @@
+card "Tidal, Dragon Ruler of Waterfalls" {
+	release ocg 
+	release tcg 
+	type 
+}
+

@@ -1,0 +1,6 @@
+card "Djinn Releaser of Rituals" {
+	release ocg 
+	release tcg 
+	type 
+}
+

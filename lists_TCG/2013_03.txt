@@ -1,0 +1,21 @@
+format T
+year 2013-03
+analogue ocg 2013-03
+
+#LIST
+forbid "Sangan"
+forbid "Wind-Up Carrier Zenmaity"
+
+limit "Wind-Up Magician"
+limit "One Day of Peace"
+limit "Solemn Warning"
+
+semilimit "Thunder King Rai-Oh"
+semilimit "Tsukuyomi"
+semilimit "Advanced Ritual Art"
+
+unlimit "Blackwing - Kalut the Moon Shadow"
+unlimit "Lumina, Lightsworn Summoner"
+unlimit "Mind Crush"
+unlimit "Spore"
+unlimit "Shien's Smoke Signal"

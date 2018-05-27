@@ -1,0 +1,6 @@
+card "Mass Driver" {
+	release ocg 
+	release tcg 
+	type 
+}
+

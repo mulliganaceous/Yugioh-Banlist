@@ -1,0 +1,6 @@
+card "Constellar Ptolemy M7" {
+	release ocg 
+	release tcg 
+	type 
+}
+

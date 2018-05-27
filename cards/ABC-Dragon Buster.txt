@@ -1,0 +1,6 @@
+card "ABC-Dragon Buster" {
+	release ocg 2016 06 18
+	release tcg 2016 10 20
+	type Monster Fusion
+}
+

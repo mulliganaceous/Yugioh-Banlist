@@ -1,0 +1,6 @@
+card "Bottomless Trap Hole" {
+	release ocg 2001 11 29
+	release tcg 2003 06 06
+	type Trap Normal
+}
+

@@ -1,0 +1,6 @@
+card "Mystical Space Typhoon" {
+	release ocg 
+	release tcg 
+	type 
+}
+

@@ -1,0 +1,25 @@
+format O
+year 2017-04
+
+#LIST
+forbid "The Tyrant Neptune"
+forbid "Zoodiac Drident"
+forbid "Zoodiac Barrage"
+
+limit "Blackwing - Gofu the Vague Shadow"
+nerf limit "Witch of the Black Forest"
+limit "Zoodiac Ratpier"
+limit "Interrupted Kaiju Slumber"
+
+semilimit "Armageddon Knight"
+semilimit "Brionac, Dragon of the Ice Barrier"
+semilimit "Elemental HERO Stratos"
+semilimit "Fairy Tail - Snow"
+semilimit "Goyo Guardian"
+semilimit "Ignister Prominence, the Blasting Dracoslayer"
+semilimit "Brain Control"
+semilimit "Fire Formation - Tenki"
+
+unlimit "Artifact Moralltach"
+unlimit "D/D Lamia"
+unlimit "Magician of Faith"

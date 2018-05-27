@@ -1,0 +1,6 @@
+card "Harpie's Feather Duster" {
+	release ocg 
+	release tcg 
+	type 
+}
+

@@ -1,0 +1,19 @@
+format T
+year 2015-01
+
+#LIST
+forbid "Super Polymerization"
+
+limit "Artifact Moralltach"
+nerf limit "Dark Strike Fighter"
+limit "Snatch Steal"
+
+semilimit "Honest"
+semilimit "Goyo Guardian"
+semilimit "Dark Hole"
+
+unlimit "Blackwing - Gale the Whirlwind"
+unlimit "Mermail Abyssgunde"
+unlimit "Reborn Tengu"
+unlimit "Reasoning"
+unlimit "The Transmigration Prophecy"

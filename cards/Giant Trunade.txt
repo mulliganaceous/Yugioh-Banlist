@@ -1,0 +1,6 @@
+card "Giant Trunade" {
+	release ocg 
+	release tcg 
+	type 
+}
+

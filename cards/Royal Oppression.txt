@@ -1,0 +1,6 @@
+card "Royal Oppression" {
+	release ocg 
+	release tcg 
+	type 
+}
+

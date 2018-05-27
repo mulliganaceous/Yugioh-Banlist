@@ -1,0 +1,6 @@
+card "Premature Burial" {
+	release ocg 
+	release tcg 
+	type 
+}
+

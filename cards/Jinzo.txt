@@ -1,0 +1,6 @@
+card "Jinzo" {
+	release ocg 
+	release tcg 
+	type 
+}
+

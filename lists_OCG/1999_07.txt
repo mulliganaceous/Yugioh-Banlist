@@ -1,0 +1,7 @@
+format O
+year 1999-07
+
+#LIST
+limit "Dark Hole"
+limit "Raigeki"
+limit "Trap Hole"

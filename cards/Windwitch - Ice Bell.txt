@@ -1,0 +1,6 @@
+card "Windwitch - Ice Bell" {
+	release ocg 
+	release tcg 
+	type 
+}
+

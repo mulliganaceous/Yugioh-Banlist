@@ -1,0 +1,65 @@
+format T
+
+update 2002-00
+update 2002-05
+update 2002-07
+update 2002-10
+update 2002-12
+
+update 2003-04
+update 2003-05
+update 2003-07
+update 2003-08
+
+update 2004-02
+update 2004-04
+update 2004-08
+update 2004-10
+
+update 2005-04
+update 2005-10
+
+update 2006-04
+update 2006-09
+
+update 2007-03
+update 2007-09
+
+update 2008-03
+update 2008-09
+
+update 2009-03
+update 2009-09
+
+update 2010-03
+update 2010-09
+
+update 2011-03
+update 2011-09
+
+update 2012-03
+update 2012-09
+
+update 2013-03
+update 2013-09
+
+update 2014-01
+update 2014-04
+update 2014-07
+update 2014-10
+
+update 2015-01
+update 2015-04
+update 2015-07
+update 2015-11
+
+update 2016-04
+update 2016-08
+
+update 2017-03
+update 2017-06
+update 2017.09
+update 2017.11
+
+update 2018-02
+update 2018-05

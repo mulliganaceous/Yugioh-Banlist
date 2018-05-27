@@ -1,0 +1,6 @@
+card "Ancient Fairy Dragon" {
+	release ocg 2009 04 18
+	release tcg 2009 08 18
+	type Monster Synchro
+}
+

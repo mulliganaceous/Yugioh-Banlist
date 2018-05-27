@@ -1,0 +1,6 @@
+card "Raiza the Storm Monarch" {
+	release ocg 
+	release tcg 
+	type 
+}
+

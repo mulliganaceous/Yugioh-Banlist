@@ -1,0 +1,6 @@
+card "Book of Taiyou" {
+	release ocg 2002 03 21
+	release tcg 2003 07 18
+	type Spell Normal
+}
+

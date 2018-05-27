@@ -1,0 +1,6 @@
+card "Snipe Hunter" {
+	release ocg 
+	release tcg 
+	type 
+}
+

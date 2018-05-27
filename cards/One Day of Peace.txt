@@ -1,0 +1,6 @@
+card "One Day of Peace" {
+	release ocg 
+	release tcg 
+	type 
+}
+

@@ -1,0 +1,6 @@
+card "Pot of Avarice" {
+	release ocg 
+	release tcg 
+	type 
+}
+

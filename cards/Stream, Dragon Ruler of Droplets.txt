@@ -1,0 +1,6 @@
+card "Stream, Dragon Ruler of Droplets" {
+	release ocg 
+	release tcg 
+	type 
+}
+

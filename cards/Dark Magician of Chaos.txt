@@ -1,0 +1,6 @@
+card "Dark Magician of Chaos" {
+	release ocg 
+	release tcg 
+	type 
+}
+

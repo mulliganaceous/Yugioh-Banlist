@@ -1,0 +1,6 @@
+card "Gravekeeper's Servant" {
+	release ocg 
+	release tcg 
+	type 
+}
+

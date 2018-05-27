@@ -1,0 +1,6 @@
+card "Wind-Up Magician" {
+	release ocg 
+	release tcg 
+	type 
+}
+

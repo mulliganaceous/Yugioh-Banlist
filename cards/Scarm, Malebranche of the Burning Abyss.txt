@@ -1,0 +1,6 @@
+card "Scarm, Malebranche of the Burning Abyss" {
+	release ocg 
+	release tcg 
+	type 
+}
+

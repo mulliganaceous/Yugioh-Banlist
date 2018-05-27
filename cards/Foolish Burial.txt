@@ -1,0 +1,6 @@
+card "Foolish Burial" {
+	release ocg 
+	release tcg 
+	type 
+}
+

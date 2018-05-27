@@ -1,0 +1,6 @@
+card "Change of Heart" {
+	release ocg 
+	release tcg 
+	type 
+}
+

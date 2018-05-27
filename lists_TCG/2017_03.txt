@@ -1,0 +1,22 @@
+format T
+year 2017-03
+
+#LIST
+forbid "Majespecter Unicorn - Kirin"
+forbid "The Tyrant Neptune"
+forbid "Vanity's Emptiness"
+
+nerf limit "Brionac, Dragon of the Ice Barrier"
+nerf limit "Rescue Cat"
+nerf limit "Brain Control"
+nerf limit "Future Fusion"
+nerf limit "Imperial Order"
+
+limit "Maxx \"C\""
+
+semilimit "Wisdom-Eye Magician"
+semilimit "Zoodiac Ratpier"
+semilimit "Interrupted Kaiju Slumber"
+
+nerf unlimit "Sangan"
+nerf unlimit "Goyo Guardian"

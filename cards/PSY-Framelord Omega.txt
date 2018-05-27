@@ -1,0 +1,6 @@
+card "PSY-Framelord Omega" {
+	release ocg 
+	release tcg 
+	type 
+}
+

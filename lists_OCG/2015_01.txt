@@ -1,0 +1,39 @@
+format O
+year 2015-01
+
+#LIST
+forbid "Heavy Storm"
+
+nerf limit "Chaos Emperor Dragon - Envoy of the End"
+nerf limit "Sinister Serpent"
+nerf limit "Temple of the Kings"
+nerf limit "Crush Card Virus"
+nerf limit "Exchange of the Spirit"
+nerf limit "Ring of Destruction"
+
+limit "Blaze Fenix, the Burning Bombardment Bird"
+limit "Manju of the Ten Thousand Hands"
+limit "Nekroz of Unicore"
+limit "Senju of the Thousand Hands"
+
+limit "Harpie's Feather Duster"
+limit "Instant Fusion"
+limit "Preparation of Rites"
+limit "Super Polymerization"
+limit "Symbol of Heritage"
+
+semilimit "Atlantean Dragoons"
+semilimit "Brotherhood of the Fire Fist - Rooster"
+semilimit "Inzektor Hornet"
+semilimit "Number 11: Big Eye"
+semilimit "Monster Gate"
+
+unlimit "Card Trooper"
+unlimit "Chronomaly Nebra Disk"
+unlimit "Evilswarm Ophion"
+unlimit "Lonefire Blossom"
+unlimit "T.G. Striker"
+unlimit "Tragoedia"
+unlimit "A Hero Lives"
+unlimit "Hieratic Seal of Convocation"
+unlimit "Ojama Trio"

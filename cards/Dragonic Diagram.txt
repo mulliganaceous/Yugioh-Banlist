@@ -1,0 +1,6 @@
+card "Dragonic Diagram" {
+	release ocg 
+	release tcg 
+	type 
+}
+

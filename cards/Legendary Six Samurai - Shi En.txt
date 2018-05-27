@@ -1,0 +1,6 @@
+card "Legendary Six Samurai - Shi En" {
+	release ocg 
+	release tcg 
+	type 
+}
+

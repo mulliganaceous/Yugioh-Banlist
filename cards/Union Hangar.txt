@@ -1,0 +1,6 @@
+card "Union Hangar" {
+	release ocg 
+	release tcg 
+	type 
+}
+

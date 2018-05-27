@@ -1,0 +1,30 @@
+format T
+year 2005-10
+
+#LIST
+forbid "Black Luster Soldier - Envoy of the Beginning"
+forbid "Sinister Serpent"
+forbid "Tribe-Infecting Virus"
+forbid "Delinquent Duo"
+forbid "Graceful Charity"
+forbid "Pot of Greed"
+forbid "Mirror Force"
+forbid "Ring of Destruction"
+
+limit "Magician of Faith"
+limit "Night Assailant"
+limit "Thousand-Eyes Restrict"
+limit "Tsukuyomi"
+limit "Book of Moon"
+limit "Book of Taiyou"
+limit "Confiscation"
+limit "Dark Hole"
+limit "Limiter Removal"
+limit "Metamorphosis"
+limit "Nobleman of Crossout"
+limit "Scapegoat"
+limit "Exchange of the Spirit"
+
+unlimit "Dark Scorpion - Chick the Yellow"
+unlimit "Marauding Captain"
+unlimit "Vampire Lord"

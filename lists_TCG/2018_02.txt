@@ -1,0 +1,36 @@
+format T
+year 2018-02
+
+#LIST
+forbid "Blackwing - Gofu the Vague Shadow"
+forbid "Dandylion"
+forbid "Double Iris Magician"
+forbid "Level Eater"
+forbid "Maxx \"C\""
+forbid "Performapal Skullcrobat Joker"
+
+limit "Apoqliphort Towers"
+limit "Grinder Golem"
+limit "Performage Damage Juggler"
+limit "Firewall Dragon"
+limit "Monster Reborn"
+limit "SPYRAL Resort"
+limit "Solemn Judgment"
+
+unlimit "Artifact Moralltach"
+unlimit "Black Luster Soldier - Envoy of the Beginning"
+unlimit "Card Trooper"
+unlimit "Thunder King Rai-Oh"
+unlimit "Brionac, Dragon of the Ice Barrier"
+
+unlimit "Brain Control"
+unlimit "El Shaddoll Fusion"
+unlimit "Future Fusion"
+unlimit "Mind Control"
+unlimit "Preparation of Rites"
+unlimit "Saqlifice"
+
+unlimit "Bottomless Trap Hole"
+unlimit "Ceasefire"
+unlimit "Ojama Trio"
+unlimit "Torrential Tribute"

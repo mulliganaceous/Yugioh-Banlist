@@ -1,0 +1,6 @@
+card "Eradicator Epidemic Virus" {
+	release ocg 
+	release tcg 
+	type 
+}
+

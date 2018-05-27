@@ -1,0 +1,6 @@
+card "Summoner Monk" {
+	release ocg 
+	release tcg 
+	type 
+}
+

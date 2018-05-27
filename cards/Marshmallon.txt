@@ -1,0 +1,6 @@
+card "Marshmallon" {
+	release ocg 
+	release tcg 
+	type 
+}
+

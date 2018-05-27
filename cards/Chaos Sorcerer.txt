@@ -1,0 +1,6 @@
+card "Chaos Sorcerer" {
+	release ocg 
+	release tcg 
+	type 
+}
+

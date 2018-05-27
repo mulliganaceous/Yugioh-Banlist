@@ -1,0 +1,6 @@
+card "The Agent of Mystery - Earth" {
+	release ocg 
+	release tcg 
+	type 
+}
+

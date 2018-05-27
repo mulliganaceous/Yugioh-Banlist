@@ -1,0 +1,6 @@
+card "Saqlifice" {
+	release ocg 
+	release tcg 
+	type 
+}
+

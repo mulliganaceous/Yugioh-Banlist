@@ -1,0 +1,6 @@
+card "Performapal Pendulum Sorcerer" {
+	release ocg 
+	release tcg 
+	type 
+}
+

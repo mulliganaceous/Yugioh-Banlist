@@ -1,0 +1,6 @@
+card "Lumina, Lightsworn Summoner" {
+	release ocg 
+	release tcg 
+	type 
+}
+

@@ -1,0 +1,6 @@
+card "Evigishki Gustkraken" {
+	release ocg 
+	release tcg 
+	type 
+}
+

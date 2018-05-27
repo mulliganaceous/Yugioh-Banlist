@@ -1,0 +1,6 @@
+card "Miscellaneousaurus" {
+	release ocg 
+	release tcg 
+	type 
+}
+

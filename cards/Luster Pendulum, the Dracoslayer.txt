@@ -1,0 +1,6 @@
+card "Luster Pendulum, the Dracoslayer" {
+	release ocg 
+	release tcg 
+	type 
+}
+

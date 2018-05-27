@@ -1,0 +1,14 @@
+format O
+year 2003-04
+
+#LIST
+limit "Reflect Bounder"
+limit "Vampire Lord"
+
+semilimit "Makyura the Destructor"
+
+unlimit "Guardian Sphinx"
+unlimit "Slate Warrior"
+unlimit "Limiter Removal"
+unlimit "Riryoku"
+unlimit "Backup Soldier"

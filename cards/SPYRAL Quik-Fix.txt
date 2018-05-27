@@ -1,0 +1,6 @@
+card "SPYRAL Quik-Fix" {
+	release ocg 
+	release tcg 
+	type 
+}
+

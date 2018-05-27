@@ -1,0 +1,6 @@
+card "T.G. Hyper Librarian" {
+	release ocg 
+	release tcg 
+	type 
+}
+

@@ -1,0 +1,6 @@
+card "Necro Gardna" {
+	release ocg 
+	release tcg 
+	type 
+}
+

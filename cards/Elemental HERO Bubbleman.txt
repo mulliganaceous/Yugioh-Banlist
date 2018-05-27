@@ -1,0 +1,6 @@
+card "Elemental HERO Bubbleman" {
+	release ocg 
+	release tcg 
+	type 
+}
+

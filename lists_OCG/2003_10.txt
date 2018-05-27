@@ -1,0 +1,10 @@
+format O
+year 2003-10
+
+#LIST
+limit "Black Luster Soldier - Envoy of the Beginning"
+limit "Dark Magician of Chaos"
+limit "Magical Scientist"
+
+semilimit "Manticore of Darkness"
+semilimit "Morphing Jar"

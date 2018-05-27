@@ -1,0 +1,6 @@
+card "Drop Off" {
+	release ocg 
+	release tcg 
+	type 
+}
+

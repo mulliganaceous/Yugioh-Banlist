@@ -1,0 +1,35 @@
+format O
+year 2013-09
+
+#LIST
+forbid "Burner, Dragon Ruler of Sparks"
+forbid "Lightning, Dragon Ruler of Drafts"
+forbid "Reactan, Dragon Ruler of Pebbles"
+forbid "Stream, Dragon Ruler of Droplets"
+forbid "Spellbook of Judgment"
+
+limit "Brotherhood of the Fire Fist - Rooster"
+limit "Genex Ally Birdman"
+limit "Mermail Abyssteus"
+limit "Number 11: Big Eye"
+limit "Trishula, Dragon of the Ice Barrier"
+limit "Wind-Up Shark"
+limit "Divine Wind of Mist Valley"
+limit "Super Rejuvenation"
+limit "Abyss-sphere"
+
+semilimit "Chaos Sorcerer"
+semilimit "Gladiator Beast Bestiari"
+semilimit "Gorz the Emissary of Darkness"
+semilimit "Neo-Spacian Grand Mole"
+semilimit "Black Whirlwind"
+semilimit "Fire Formation - Tenki"
+
+unlimit "Tsukuyomi"
+unlimit "Wind-Up Magician"
+unlimit "Advanced Ritual Art"
+unlimit "E - Emergency Call"
+unlimit "Pot of Duality"
+unlimit "Reasoning"
+unlimit "Scapegoat"
+unlimit "Mirror Force"

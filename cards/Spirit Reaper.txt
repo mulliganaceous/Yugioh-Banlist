@@ -1,0 +1,6 @@
+card "Spirit Reaper" {
+	release ocg 
+	release tcg 
+	type 
+}
+

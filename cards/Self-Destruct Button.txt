@@ -1,0 +1,6 @@
+card "Self-Destruct Button" {
+	release ocg 
+	release tcg 
+	type 
+}
+

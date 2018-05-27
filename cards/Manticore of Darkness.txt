@@ -1,0 +1,6 @@
+card "Manticore of Darkness" {
+	release ocg 
+	release tcg 
+	type 
+}
+

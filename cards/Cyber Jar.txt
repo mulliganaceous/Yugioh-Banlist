@@ -1,0 +1,6 @@
+card "Cyber Jar" {
+	release ocg 
+	release tcg 
+	type 
+}
+

@@ -1,0 +1,6 @@
+card "Blaster, Dragon Ruler of Infernos" {
+	release ocg 2013 02 16
+	release tcg 2013 05 17
+	type Monster Effect
+}
+

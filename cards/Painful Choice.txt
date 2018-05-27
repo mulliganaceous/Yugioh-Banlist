@@ -1,0 +1,6 @@
+card "Painful Choice" {
+	release ocg 
+	release tcg 
+	type 
+}
+

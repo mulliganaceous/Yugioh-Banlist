@@ -1,0 +1,6 @@
+card "Ring of Destruction" {
+	release ocg 
+	release tcg 
+	type 
+}
+

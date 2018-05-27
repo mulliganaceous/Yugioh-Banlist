@@ -1,0 +1,6 @@
+card "Exiled Force" {
+	release ocg 
+	release tcg 
+	type 
+}
+

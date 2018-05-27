@@ -1,0 +1,6 @@
+card "Redox, Dragon Ruler of Boulders" {
+	release ocg 
+	release tcg 
+	type 
+}
+

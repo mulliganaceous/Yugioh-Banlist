@@ -1,0 +1,6 @@
+card "Vampire Lord" {
+	release ocg 
+	release tcg 
+	type 
+}
+

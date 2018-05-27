@@ -1,0 +1,8 @@
+format T
+year 2002-00
+
+#LISTS
+limit "Mirror Force"
+semilimit "Sangan"
+semilimit "Witch of the Black Forest"
+semilimit "Heavy Storm"

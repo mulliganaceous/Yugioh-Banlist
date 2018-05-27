@@ -1,0 +1,6 @@
+card "Deep Sea Diva" {
+	release ocg 
+	release tcg 
+	type 
+}
+

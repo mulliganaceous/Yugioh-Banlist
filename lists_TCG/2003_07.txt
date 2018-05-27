@@ -1,0 +1,14 @@
+format T
+year 2003-07
+
+#LIST
+limit "Exiled Force"
+limit "Fiber Jar"
+limit "Injection Fairy Lily"
+limit "Twin-Headed Behemoth"
+limit "Yata-Garasu"
+
+semilimit "Marauding Captain"
+semilimit "Creature Swap"
+semilimit "Reinforcement of the Army"
+semilimit "Last Turn"

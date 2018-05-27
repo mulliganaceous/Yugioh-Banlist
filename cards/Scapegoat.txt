@@ -1,0 +1,6 @@
+card "Scapegoat" {
+	release ocg 
+	release tcg 
+	type 
+}
+

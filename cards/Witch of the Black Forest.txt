@@ -1,0 +1,6 @@
+card "Witch of the Black Forest" {
+	release ocg 
+	release tcg 
+	type 
+}
+

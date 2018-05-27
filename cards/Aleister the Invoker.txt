@@ -1,0 +1,6 @@
+card "Aleister the Invoker" {
+	release ocg 2016 11 12
+	release tcg 2017 02 23
+	type Monster Effect
+}
+

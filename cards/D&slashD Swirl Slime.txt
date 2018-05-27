@@ -1,0 +1,6 @@
+card "D/D Swirl Slime" {
+	release ocg 
+	release tcg 
+	type 
+}
+

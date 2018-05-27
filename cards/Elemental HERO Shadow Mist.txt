@@ -1,0 +1,6 @@
+card "Elemental HERO Shadow Mist" {
+	release ocg 
+	release tcg 
+	type 
+}
+

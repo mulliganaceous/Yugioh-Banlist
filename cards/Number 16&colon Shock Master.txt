@@ -1,0 +1,6 @@
+card "Number 16: Shock Master" {
+	release ocg 
+	release tcg 
+	type 
+}
+

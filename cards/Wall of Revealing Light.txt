@@ -1,0 +1,6 @@
+card "Wall of Revealing Light" {
+	release ocg 
+	release tcg 
+	type 
+}
+

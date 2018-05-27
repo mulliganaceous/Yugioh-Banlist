@@ -1,0 +1,29 @@
+format O
+year 2017-01
+
+#LIST
+forbid "Majespecter Unicorn - Kirin"
+
+nerf limit "Brionac, Dragon of the Ice Barrier"
+nerf limit "Goyo Guardian"
+nerf limit "Rescue Cat"
+nerf limit "Brain Control"
+nerf limit "Future Fusion"
+nerf limit "Imperial Order"
+
+limit "Dewloren, Tiger King of the Ice Barrier"
+
+limit "Speedroid Terrortop"
+limit "Toadally Awesome"
+
+limit "Fire Formation - Tenki"
+limit "Union Hangar"
+
+semilimit "Dandylion"
+semilimit "Magician of Faith"
+
+unlimit "Inzektor Dragonfly"
+unlimit "Mathematician"
+unlimit "Mezuki"
+unlimit "Star Seraph Sovereignty"
+unlimit "El Shaddoll Fusion"

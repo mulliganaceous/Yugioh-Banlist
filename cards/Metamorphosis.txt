@@ -1,0 +1,6 @@
+card "Metamorphosis" {
+	release ocg 
+	release tcg 
+	type 
+}
+

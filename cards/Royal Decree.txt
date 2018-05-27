@@ -1,0 +1,6 @@
+card "Royal Decree" {
+	release ocg 
+	release tcg 
+	type 
+}
+

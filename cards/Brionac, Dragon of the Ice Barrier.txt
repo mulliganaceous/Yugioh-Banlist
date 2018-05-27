@@ -1,0 +1,6 @@
+card "Brionac, Dragon of the Ice Barrier" {
+	release ocg 2008 04 12
+	release tcg 2009 11 05
+	type Monster Synchro
+}
+

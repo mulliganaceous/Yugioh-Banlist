@@ -1,0 +1,6 @@
+card "Vanity's Emptiness" {
+	release ocg 
+	release tcg 
+	type 
+}
+

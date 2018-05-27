@@ -1,0 +1,6 @@
+card "Confiscation" {
+	release ocg 
+	release tcg 
+	type 
+}
+

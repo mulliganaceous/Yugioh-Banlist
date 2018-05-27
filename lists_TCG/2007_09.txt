@@ -1,0 +1,38 @@
+format T
+year 2007-09
+analogue ocg 2007-09
+
+#LIST
+forbid "Confiscation"
+forbid "Metamorphosis"
+forbid "Snatch Steal"
+forbid "Ring of Destruction"
+
+limit "Breaker the Magical Warrior"
+limit "Card Trooper"
+limit "Destiny HERO - Disk Commander"
+limit "Magician of Faith"
+limit "Marshmallon"
+limit "Snipe Hunter"
+limit "Brain Control"
+limit "Fissure"
+limit "Gold Sarcophagus"
+limit "Megamorph"
+limit "Smashing Ground"
+limit "The Transmigration Prophecy"
+limit "Trap Dustshoot"
+limit "Wall of Revealing Light"
+
+semilimit "Destiny HERO - Malicious"
+semilimit "Jinzo"
+semilimit "Red Gadget"
+semilimit "Yellow Gadget"
+semilimit "Green Gadget"
+semilimit "Nobleman of Crossout"
+semilimit "Pot of Avarice"
+semilimit "Royal Decree"
+
+unlimit "D.D. Assailant"
+unlimit "Protector of the Sanctuary"
+unlimit "Deck Devastation Virus"
+unlimit "Good Goblin Housekeeping"

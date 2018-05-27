@@ -1,0 +1,6 @@
+card "Chronomaly Nebra Disk" {
+	release ocg 
+	release tcg 
+	type 
+}
+

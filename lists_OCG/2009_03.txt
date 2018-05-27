@@ -1,0 +1,30 @@
+format O
+year 2009-03
+
+#LIST
+limit "Brionac, Dragon of the Ice Barrier"
+limit "Chaos Sorcerer"
+limit "Dark Armed Dragon"
+limit "Gladiator Beast Bestiari"
+limit "Goyo Guardian"
+limit "Mezuki"
+limit "Plaguespreader Zombie"
+limit "Card of Safe Return"
+limit "Emergency Teleport"
+limit "Reinforcement of the Army"
+
+semilimit "Destiny HERO - Malicious"
+semilimit "Goblin Zombie"
+semilimit "Green Baboon, Defender of the Forest"
+semilimit "Raiza the Storm Monarch"
+semilimit "Allure of Darkness"
+semilimit "Destiny Draw"
+semilimit "Gold Sarcophagus"
+semilimit "Mind Crush"
+semilimit "Ultimate Offering"
+
+unlimit "Manticore of Darkness"
+unlimit "Phantom of Chaos"
+unlimit "Twin-Headed Behemoth"
+unlimit "Book of Moon"
+unlimit "Nobleman of Crossout"

@@ -1,0 +1,6 @@
+card "Wisdom-Eye Magician" {
+	release ocg 
+	release tcg 
+	type 
+}
+

@@ -1,0 +1,6 @@
+card "Blaze Fenix, the Burning Bombardment Bird" {
+	release ocg 2011 03 12
+	release tcg 2012 03 16
+	type Monster Fusion
+}
+

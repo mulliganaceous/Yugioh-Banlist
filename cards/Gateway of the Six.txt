@@ -1,0 +1,6 @@
+card "Gateway of the Six" {
+	release ocg 
+	release tcg 
+	type 
+}
+

@@ -1,0 +1,6 @@
+card "Lightning Vortex" {
+	release ocg 
+	release tcg 
+	type 
+}
+
